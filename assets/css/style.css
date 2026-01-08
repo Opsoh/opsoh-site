@@ -364,3 +364,18 @@ footer {
     margin-top: 12px;
   }
 }
+
+/* OpsOh logo size + header alignment */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.brand-mark img {
+  width: 40px;    /* try 40px first – clean and not huge */
+  height: 40px;
+  display: block;
+  object-fit: contain;
+  border-radius: 14px;
+}

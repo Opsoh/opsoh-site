@@ -33,6 +33,26 @@ a:hover {
     flex-direction: column;
 }
 
+.brand-mark img {
+  width: 60px;      /* big and clean */
+  height: 60px;
+  object-fit: contain;
+  border-radius: 14px;
+  display: block;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px; /* spacing between logo and name */
+}
+
+.brand-name {
+  font-weight: 600;
+  font-size: 1.4rem; /* slightly larger to match logo */
+}
+
+
 header {
     background: #ffffffcc;
     backdrop-filter: blur(10px);

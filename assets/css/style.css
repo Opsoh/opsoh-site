@@ -69,20 +69,20 @@ body {
 .brand {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   text-decoration: none;
 }
 
 .brand-logo {
-  height: 64px;           /* bigger logo */
+  height: 72px;           /* bigger logo */
   width: auto;
   display: block;
 }
 
 .brand-name {
   font-weight: 600;
-  font-size: 1.05rem;
-  letter-spacing: -0.02em;
+  font-size: 1.2rem;      /* bigger text */
+  letter-spacing: -0.03em;
   color: var(--text-main);
 }
 
@@ -291,6 +291,16 @@ body {
   align-items: center;
 }
 
+/* Real app icons */
+.app-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 14px;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.18);
+  object-fit: cover;
+}
+
+/* Old placeholder retained just in case */
 .app-icon-placeholder {
   width: 40px;
   height: 40px;
@@ -418,7 +428,7 @@ body {
   }
 
   .brand-logo {
-    height: 52px;
+    height: 60px;
   }
 
   .main {

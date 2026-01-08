@@ -74,7 +74,7 @@ body {
 }
 
 .brand-logo {
-  height: 44px;           /* bigger logo */
+  height: 64px;           /* bigger logo */
   width: auto;
   display: block;
 }
@@ -217,6 +217,20 @@ body {
 
 .text-link:hover {
   text-decoration: underline;
+}
+
+/* App Store badge */
+
+.store-badge-link {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 12px;
+}
+
+.store-badge {
+  height: 38px;
+  width: auto;
+  display: block;
 }
 
 /* Sections */
@@ -404,7 +418,7 @@ body {
   }
 
   .brand-logo {
-    height: 40px;
+    height: 52px;
   }
 
   .main {
@@ -421,5 +435,16 @@ body {
 
   .nav {
     gap: 14px;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .store-badge-link {
+    margin-left: 0;
   }
 }

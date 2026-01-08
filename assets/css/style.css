@@ -271,3 +271,76 @@ footer {
         grid-template-columns: repeat(4, minmax(0, 1fr));
     }
 }
+
+
+/* === Layout tuning for OpsOh.com === */
+
+/* Keep content centered and not too wide */
+.site-wrapper {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 32px 24px 40px;
+}
+
+/* Tighten the hero spacing */
+.hero {
+  margin-top: 12px;
+  margin-bottom: 32px;
+}
+
+/* Make the big title feel a bit tighter on desktop */
+.hero h1 {
+  margin-bottom: 12px;
+}
+
+/* Subtitle + bullets a little closer together */
+.hero-lead {
+  margin-bottom: 12px;
+}
+
+.hero-meta {
+  gap: 12px;
+}
+
+/* Featured apps section: pull it closer to the hero */
+.featured {
+  margin-top: 16px;
+}
+
+/* Section header spacing */
+.section-header h2 {
+  margin-bottom: 4px;
+}
+
+.section-header p {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+/* App grid: slightly smaller gaps so the row feels tighter */
+.app-grid {
+  gap: 20px;
+}
+
+/* Footer: a little extra breathing room but still compact */
+.site-footer {
+  margin-top: 32px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+/* Slightly different padding on larger screens */
+@media (min-width: 1024px) {
+  .site-wrapper {
+    padding: 32px 32px 40px;
+  }
+
+  .hero {
+    margin-top: 16px;
+    margin-bottom: 28px;
+  }
+
+  .featured {
+    margin-top: 12px;
+  }
+}

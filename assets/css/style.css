@@ -45,27 +45,27 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 68px;
+  height: 72px;
 }
 
 /* Branding */
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
   text-decoration: none;
 }
 
 .brand-logo {
-  width: 40px;
-  height: 40px;
+  width: 52px;
+  height: 52px;
   border-radius: 20px;
 }
 
 .brand-name {
-  font-size: 18px;
-  font-weight: 650;
-  letter-spacing: -0.02em;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
   color: #111827;
 }
 
@@ -196,8 +196,8 @@ body {
 }
 
 .app-store-badge {
-  height: 40px;
-  max-width: 160px;
+  height: 42px;
+  max-width: 170px;
   display: block;
 }
 
@@ -354,7 +354,7 @@ body {
 /* Responsive tweaks */
 @media (max-width: 640px) {
   .site-header-inner {
-    height: 64px;
+    height: 68px;
   }
 
   .hero {

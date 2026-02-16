@@ -8,13 +8,13 @@
     name="description"
     content="OpsOh support. Contact us for help with any OpsOh iPhone utility app."
   />
-  <!-- Use absolute path so it works from /support/ without worrying about ../ -->
+  <!-- Absolute path so it works from /support/ -->
   <link rel="stylesheet" href="/assets/css/style.css" />
 </head>
 <body>
   <div class="page">
 
-    <!-- Header (same structure as homepage) -->
+    <!-- Header -->
     <header class="site-header">
       <div class="site-header-inner container">
         <a href="/" class="brand">
@@ -40,21 +40,69 @@
             </p>
           </div>
 
-          <div class="contact-card">
-            <p>
-              Email
-              <a href="mailto:support@opsoh.com">support@opsoh.com</a>
-            </p>
-            <p style="margin-top:12px;">
-              To help us troubleshoot faster, please include:
-              app name, app version, iOS version, device model, and a short description of what happened.
+          <!-- Upgraded layout using existing grid + card styles -->
+          <div class="apps-grid">
+
+            <!-- Card 1: Email -->
+            <article class="app-card">
+              <div class="app-card-header">
+                <div>
+                  <h3 class="app-name">Email</h3>
+                  <p class="app-summary">Fastest way to reach us.</p>
+                </div>
+              </div>
+              <p class="app-meta">
+                <a href="mailto:support@opsoh.com" class="text-link">support@opsoh.com</a>
+              </p>
+            </article>
+
+            <!-- Card 2: What to include -->
+            <article class="app-card">
+              <div class="app-card-header">
+                <div>
+                  <h3 class="app-name">Include this</h3>
+                  <p class="app-summary">Helps us troubleshoot faster.</p>
+                </div>
+              </div>
+              <div class="app-meta" style="line-height:1.6;">
+                • App name<br />
+                • App version<br />
+                • iOS version<br />
+                • Device model<br />
+                • Steps to reproduce (if possible)
+              </div>
+            </article>
+
+            <!-- Card 3: Common topics -->
+            <article class="app-card">
+              <div class="app-card-header">
+                <div>
+                  <h3 class="app-name">Common topics</h3>
+                  <p class="app-summary">A few things we can help with.</p>
+                </div>
+              </div>
+              <div class="app-meta" style="line-height:1.6;">
+                • Importing files / Photos access<br />
+                • Export / Share issues<br />
+                • PDF creation or conversion results<br />
+                • Crash or freeze (tell us what you tapped)
+              </div>
+            </article>
+
+          </div>
+
+          <!-- Optional closing note -->
+          <div class="contact-card" style="margin-top:18px;">
+            <p style="margin:0;">
+              OpsOh apps are designed to be simple, fast, and privacy-friendly.
             </p>
           </div>
+
         </div>
       </section>
     </main>
 
-    <!-- Footer (same as homepage + Support link) -->
+    <!-- Footer -->
     <footer class="site-footer">
       <div class="container footer-inner">
         <p class="footer-copy">

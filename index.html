@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta
     name="description"
-    content="OpsOh builds fast, focused iPhone apps. No accounts. No ads. Just on-device tools that do one job well."
+    content="OpsOh builds fast, focused iPhone apps. No accounts. No ads. Just private, on-device tools that do one job well."
   />
   <link rel="stylesheet" href="assets/css/style.css" />
 </head>
@@ -16,12 +16,12 @@
     <!-- Header -->
     <header class="site-header">
       <div class="site-header-inner container">
-        <a href="/" class="brand">
+        <a href="/" class="brand" aria-label="OpsOh home">
           <img src="/assets/img/opsoh-logo.png" alt="OpsOh logo" class="brand-logo" />
           <span class="brand-name">OpsOh</span>
         </a>
 
-        <nav class="site-nav">
+        <nav class="site-nav" aria-label="Main navigation">
           <a href="/" class="nav-link nav-link-active">Home</a>
           <a href="/apps/" class="nav-link">Apps</a>
           <a href="/blog/" class="nav-link">Blog</a>
@@ -38,11 +38,11 @@
           <h1 class="hero-title">Fast, focused iPhone utilities.</h1>
 
           <p class="hero-subtitle">
-            OpsOh builds fast, focused iPhone apps.<br />
-            No accounts. No ads. Just on-device tools that do one job well.
+            OpsOh builds small, sharp iPhone apps that stay out of your way.<br />
+            No accounts. No ads. Just private, on-device tools that do one job well.
           </p>
 
-          <p class="hero-bullets">
+          <p class="hero-bullets" aria-label="Key product principles">
             • Built for iOS &nbsp;•&nbsp; 100% on-device &nbsp;•&nbsp; No subscriptions
           </p>
 
@@ -62,15 +62,19 @@
               />
             </a>
           </div>
+
+          <p class="hero-note">
+            Every app is lightweight, focused, and designed to respect your time and your data.
+          </p>
         </div>
       </section>
 
       <!-- Featured apps -->
-      <section class="section">
+      <section class="section" aria-labelledby="featured-apps-heading">
         <div class="container">
           <div class="section-header">
-            <h2 class="section-title">Featured apps</h2>
-            <p class="section-caption">A few of the apps available today.</p>
+            <h2 class="section-title" id="featured-apps-heading">Featured apps</h2>
+            <p class="section-caption">A few of the tools available today.</p>
           </div>
 
           <div class="apps-grid">
@@ -189,14 +193,14 @@
       </section>
 
       <!-- Blog Preview -->
-      <section class="section">
+      <section class="section" aria-labelledby="blog-heading">
         <div class="container">
           <div class="section-header">
-            <h2 class="section-title">From the Blog</h2>
+            <h2 class="section-title" id="blog-heading">From the blog</h2>
             <p class="section-caption">Simple guides for everyday iPhone users.</p>
           </div>
 
-          <div style="max-width:700px;">
+          <article style="max-width:700px;">
             <h3>
               <a href="/blog/how-to-rename-photos-on-iphone/" class="text-link">
                 How to Rename Photos on iPhone (Step-by-Step Guide)
@@ -206,7 +210,7 @@
               Learn how to rename photos on iPhone using built-in tools and faster methods for batch renaming.
             </p>
             <p style="opacity:.6; font-size:14px;">February 2026</p>
-          </div>
+          </article>
 
           <div class="section-footer">
             <a href="/blog/" class="text-link">Visit the blog →</a>
@@ -215,11 +219,11 @@
       </section>
 
       <!-- Support -->
-      <section class="section">
+      <section class="section" aria-labelledby="support-heading">
         <div class="container">
           <div class="contact-card" style="display:flex; align-items:center; justify-content:space-between; gap:16px;">
             <p style="margin:0;">
-              Need help with an OpsOh app?
+              <span id="support-heading">Need help with an OpsOh app?</span>
               <a href="/support/" class="text-link">Visit Support →</a>
               <span style="opacity:.7;">or email</span>
               <a href="mailto:support@opsoh.com">support@opsoh.com</a>.

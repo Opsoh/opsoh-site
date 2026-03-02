@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Convert CSV to VCF Online (Free Contact File Converter) | OpsOh</title>
+  <meta name="description" content="Convert CSV contacts to VCF instantly. No signup. No uploads. Everything runs in your browser. Export a .vcf file you can import to iPhone, Android, Google Contacts, and more." />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="https://opsoh.com">
+        <span class="brand-mark">OpsOh</span>
+      </a>
+      <nav class="topnav">
+        <a href="https://opsoh.com/apps/">Apps</a>
+        <a href="https://opsoh.com/tools/">Tools</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div class="hero-copy">
+        <h1>Convert CSV to VCF Online</h1>
+        <p class="subhead">
+          Turn a CSV contact file into a <strong>.VCF</strong> (vCard) you can import to iPhone, Android, Google Contacts, Outlook, and more.
+          <span class="pill">Runs 100% in your browser</span>
+        </p>
+
+        <div class="trust-row">
+          <div class="trust-item">
+            <div class="trust-title">No uploads</div>
+            <div class="trust-desc">Your file never leaves your device.</div>
+          </div>
+          <div class="trust-item">
+            <div class="trust-title">Fast</div>
+            <div class="trust-desc">Convert and download in seconds.</div>
+          </div>
+          <div class="trust-item">
+            <div class="trust-title">No subscription</div>
+            <div class="trust-desc">One-time unlock (after launch).</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-card card">
+        <div class="card-head">
+          <div>
+            <div class="card-title">CSV → VCF Converter</div>
+            <div class="card-note" id="launchNote">Launch mode: <strong>Free</strong> (limited-time)</div>
+          </div>
+          <div class="status" id="statusPill">Ready</div>
+        </div>
+
+        <div class="card-body">
+          <div class="uploader">
+            <label class="file-btn">
+              <input id="csvFile" type="file" accept=".csv,text/csv" />
+              <span>Choose CSV File</span>
+            </label>
+            <div class="file-meta" id="fileMeta">No file selected</div>
+          </div>
+
+          <div class="grid">
+            <div class="field">
+              <label>Full Name column</label>
+              <select id="colFullName"></select>
+              <div class="hint">If your CSV has “Name” or “Full Name”, pick it here.</div>
+            </div>
+
+            <div class="field">
+              <label>First Name column</label>
+              <select id="colFirstName"></select>
+              <div class="hint">Optional — used if Full Name is blank.</div>
+            </div>
+
+            <div class="field">
+              <label>Last Name column</label>
+              <select id="colLastName"></select>
+              <div class="hint">Optional — used if Full Name is blank.</div>
+            </div>
+
+            <div class="field">
+              <label>Phone column</label>
+              <select id="colPhone"></select>
+            </div>
+
+            <div class="field">
+              <label>Email column</label>
+              <select id="colEmail"></select>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button class="btn primary" id="btnPreview" disabled>Preview Contacts</button>
+
+            <!-- Monetization-ready buttons -->
+            <button class="btn accent" id="btnUnlock" style="display:none;">Unlock Full Download</button>
+            <button class="btn primary" id="btnDownload" disabled>Download VCF</button>
+          </div>
+
+          <div class="smallprint" id="privacyLine">
+            Privacy: This tool runs locally in your browser. We never upload or store your contacts.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card" id="previewCard" style="display:none;">
+      <div class="card-head">
+        <div>
+          <div class="card-title">Preview</div>
+          <div class="card-note">Showing the first <span id="previewCount">10</span> contacts</div>
+        </div>
+      </div>
+      <div class="card-body">
+        <div class="table-wrap">
+          <table class="table" id="previewTable">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Phone</th>
+                <th>Email</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div class="smallprint">
+          Tip: If the columns look wrong, adjust the selectors above and preview again.
+        </div>
+      </div>
+    </section>
+
+    <section class="faq">
+      <h2>FAQ</h2>
+
+      <details>
+        <summary>What is a VCF file?</summary>
+        <p>A VCF (vCard) is a standard contact file format. Many apps and devices can import contacts from a .vcf file.</p>
+      </details>
+
+      <details>
+        <summary>Is this really private?</summary>
+        <p>Yes — your CSV is processed locally in your browser. No server upload. No storage.</p>
+      </details>
+
+      <details>
+        <summary>How do I import VCF to iPhone?</summary>
+        <p>Email the .vcf to yourself and open it on iPhone, or import to iCloud/Contacts from a computer. The exact steps vary depending on your workflow.</p>
+      </details>
+
+      <details>
+        <summary>Why is this free right now?</summary>
+        <p>We’re running a short launch period to validate interest. After launch, full downloads will require a one-time unlock.</p>
+      </details>
+    </section>
+
+    <footer class="footer">
+      <div class="wrap footer-inner">
+        <div class="footer-left">© <span id="year"></span> OpsOh</div>
+        <div class="footer-right">
+          <a href="https://opsoh.com/privacy/">Privacy</a>
+          <a href="https://opsoh.com/apps/">Apps</a>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="./script.js"></script>
+</body>
+</html>

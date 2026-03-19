@@ -21,4 +21,14 @@
     <priority>0.7</priority>
   </url>
 
+  <url>
+  <loc>https://opsoh.com/blog/how-to-export-iphone-calendar/</loc>
+  <priority>0.7</priority>
+</url>
+
+<url>
+  <loc>https://opsoh.com/blog/how-to-export-iphone-reminders/</loc>
+  <priority>0.7</priority>
+</url>
+
 </urlset>

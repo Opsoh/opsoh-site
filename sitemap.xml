@@ -16,19 +16,36 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Blog Pages -->
+
   <url>
     <loc>https://opsoh.com/blog/how-to-rename-photos-on-iphone/</loc>
     <priority>0.7</priority>
   </url>
 
   <url>
-  <loc>https://opsoh.com/blog/how-to-export-iphone-calendar/</loc>
-  <priority>0.7</priority>
-</url>
+    <loc>https://opsoh.com/blog/export-iphone-calendar-csv-ics/</loc>
+    <priority>0.7</priority>
+  </url>
 
-<url>
-  <loc>https://opsoh.com/blog/how-to-export-iphone-reminders/</loc>
-  <priority>0.7</priority>
-</url>
+  <url>
+    <loc>https://opsoh.com/blog/how-to-export-iphone-calendar/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://opsoh.com/blog/export-iphone-reminders-csv-json/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://opsoh.com/blog/how-to-export-iphone-reminders/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://opsoh.com/blog/export-iphone-contacts-csv-vcf/</loc>
+    <priority>0.7</priority>
+  </url>
 
 </urlset>

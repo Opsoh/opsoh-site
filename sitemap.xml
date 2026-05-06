@@ -12,9 +12,33 @@
   </url>
 
   <url>
+    <loc>https://opsoh.com/blog/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://opsoh.com/support/</loc>
     <priority>0.8</priority>
   </url>
+
+  <!-- FILE CLEANER ARTICLES -->
+
+  <url>
+    <loc>https://opsoh.com/blog/delete-downloaded-files-on-iphone/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://opsoh.com/blog/find-large-files-on-iphone/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://opsoh.com/blog/clean-up-iphone-files-storage/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- CALENDAR ARTICLES -->
 
   <url>
     <loc>https://opsoh.com/blog/backup-iphone-calendar/</loc>
@@ -32,11 +56,6 @@
   </url>
 
   <url>
-    <loc>https://opsoh.com/blog/how-to-rename-photos-on-iphone/</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://opsoh.com/blog/export-iphone-calendar-csv-ics/</loc>
     <priority>0.7</priority>
   </url>
@@ -45,6 +64,8 @@
     <loc>https://opsoh.com/blog/how-to-export-iphone-calendar/</loc>
     <priority>0.7</priority>
   </url>
+
+  <!-- REMINDERS ARTICLES -->
 
   <url>
     <loc>https://opsoh.com/blog/export-iphone-reminders-csv-json/</loc>
@@ -56,8 +77,17 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- CONTACTS ARTICLES -->
+
   <url>
     <loc>https://opsoh.com/blog/export-iphone-contacts-csv-vcf/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- PHOTO ARTICLES -->
+
+  <url>
+    <loc>https://opsoh.com/blog/how-to-rename-photos-on-iphone/</loc>
     <priority>0.7</priority>
   </url>
 

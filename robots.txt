@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://opsoh.com/sitemap.xml

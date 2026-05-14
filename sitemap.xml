@@ -92,6 +92,21 @@
   <!-- CONTACTS ARTICLES -->
 
   <url>
+    <loc>https://opsoh.com/blog/backup-iphone-contacts-before-switching-phones/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://opsoh.com/blog/save-iphone-contacts-without-icloud/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://opsoh.com/blog/export-iphone-contacts-to-excel/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://opsoh.com/blog/export-iphone-contacts-csv-vcf/</loc>
     <priority>0.7</priority>
   </url>

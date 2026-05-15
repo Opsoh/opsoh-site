@@ -92,6 +92,7 @@ body {
   align-items: center;
   gap: 12px;
   text-decoration: none;
+  flex-shrink: 0;
 }
 
 .brand-logo {
@@ -122,6 +123,7 @@ body {
   color: #6b7280;
   text-decoration: none;
   padding: 6px 2px;
+  white-space: nowrap;
 }
 
 .nav-link:hover {
@@ -532,11 +534,47 @@ body {
   }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 760px) {
   .site-header-inner {
     height: 68px;
+    gap: 14px;
+    justify-content: flex-start;
   }
 
+  .brand {
+    flex: 0 0 auto;
+    gap: 8px !important;
+  }
+
+  .brand-logo {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  .brand-name {
+    display: none !important;
+  }
+
+  .site-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+    gap: 18px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .site-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-link {
+    white-space: nowrap;
+    flex: 0 0 auto;
+  }
+}
+
+@media (max-width: 640px) {
   .apps-grid {
     grid-template-columns: 1fr;
   }

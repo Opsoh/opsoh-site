@@ -1,0 +1,56 @@
+# OpsOh
+
+OpsOh is an independent app studio creating focused apps and games built with purpose, polish, and privacy.
+
+## Main sections
+- Apps: https://opsoh.com/apps/
+- Games: https://opsoh.com/games/
+- Bundles: https://opsoh.com/bundles/
+- Guides: https://opsoh.com/guides/
+- Videos: https://opsoh.com/videos/
+- Studio: https://opsoh.com/studio/
+- Support: https://opsoh.com/support/
+
+## Catalog
+OpsOh has 60+ apps and a growing collection of games. The catalog is primarily on the App Store, with selected apps also available on Google Play.
+Full App Store developer page: https://apps.apple.com/us/developer/opsoh-llc/id1877414741
+Google Play developer page: https://play.google.com/store/apps/dev?id=6462121865377905232
+
+## Featured apps
+- Export Health: Export selected Apple Health records to CSV or create readable PDF summaries. https://opsoh.com/apps/export-health/
+- Export Calendar: Export calendar events to CSV or ICS on iPhone and Android. https://opsoh.com/apps/export-calendar/
+  Google Play: https://play.google.com/store/apps/details?id=com.opsoh.exportcalendar
+- Rename Photos: Batch rename iPhone photos. https://opsoh.com/apps/rename-photos/
+- File Cleaner: Find large files and clean iPhone storage. https://opsoh.com/apps/file-cleaner/
+- Date Stamp Photos: Add date stamps to photos on iPhone. https://opsoh.com/apps/date-stamp-photos/
+
+## Games
+- Wordgrove: Word Search Puzzles
+- Skytangle: Star Puzzle
+- Brick Breaker – Retro Arcade
+Games page: https://opsoh.com/games/
+
+## Export Health guides
+- Export Apple Health data to CSV: https://opsoh.com/blog/export-apple-health-data-csv/
+- Export Apple Health data from iPhone: https://opsoh.com/blog/export-apple-health-data-iphone/
+- Create a readable PDF summary from Apple Health data: https://opsoh.com/blog/apple-health-pdf-summary-trends/
+
+## Machine-readable discovery
+- Sitemap: https://opsoh.com/sitemap.xml
+- robots.txt: https://opsoh.com/robots.txt
+- Structured site inventory: https://opsoh.com/data/site-index.json
+- Entity graph: https://opsoh.com/data/entity-graph.json
+- Search index: https://opsoh.com/data/search-index.json
+- App catalog data: https://opsoh.com/data/apps.json
+- Guide data: https://opsoh.com/data/guides.json
+
+## Official links
+- App Store: https://apps.apple.com/us/developer/opsoh-llc/id1877414741
+- Google Play: https://play.google.com/store/apps/dev?id=6462121865377905232
+- X: https://x.com/OpsOhApps
+- YouTube: https://www.youtube.com/@OpsOh1
+- LinkedIn: https://www.linkedin.com/company/opsoh
+- Support: support@opsoh.com
+- Privacy: https://opsoh.github.io/opsoh-privacy/
+
+Updated: September 17, 2026

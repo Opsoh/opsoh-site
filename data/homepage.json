@@ -1,0 +1,21 @@
+{
+  "theme": "cinematic-dark",
+  "developerUrl": "https://apps.apple.com/us/developer/opsoh-llc/id1877414741",
+  "announcement": {
+    "enabled": false,
+    "text": "",
+    "link": ""
+  },
+  "hero": {
+    "headline": "Focused apps built with purpose & privacy.",
+    "featuredApps": [
+      "export-calendar",
+      "rename-photos",
+      "file-cleaner",
+      "date-stamp-photos",
+      "pdf-redactor"
+    ]
+  },
+  "version": "v27.58",
+  "generated": "2026-09-15"
+}

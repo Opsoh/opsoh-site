@@ -1,0 +1,8 @@
+OpsOh v27.52 — Phase 2 SEO cleanup
+
+Changes:
+- Added permanent 301 redirect from /guides/rename-iphone-photos/ to /blog/rename-iphone-photos-without-computer/.
+- Removed the obsolete redirect URL from sitemap.xml, site-index.json, and search-index.json.
+- Updated the fallback redirect HTML to noindex and canonicalize to the primary Rename Photos article.
+- Updated Rename Photos app SEO/Open Graph/Twitter title to: Rename Photos for iPhone - Batch Rename | OpsOh.
+- Preserved all v27.51 technical/schema fixes and the strengthened Rename Photos article.

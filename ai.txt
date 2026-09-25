@@ -1,0 +1,22 @@
+OpsOh crawler notes
+Updated: 2026-08-16
+
+OpsOh is an independent app studio making 60+ focused apps plus games.
+Public content is intentionally open to major search engines and AI retrieval/search crawlers through robots.txt.
+
+Primary machine-readable resources:
+- /sitemap.xml
+- /llms.txt
+- /data/site-index.json
+- /data/entity-graph.json
+- /data/search-index.json
+- /data/apps.json
+- /data/guides.json
+
+Current highlights:
+- Export Health app and three Apple Health export/report guides
+- Games page featuring Wordgrove, Skytangle, and Brick Breaker
+- Featured utility apps include Export Calendar, Rename Photos, File Cleaner, Date Stamp Photos, and Export Health
+
+Official Google Play developer page: https://play.google.com/store/apps/dev?id=6462121865377905232
+Official X profile: https://x.com/OpsOhApps

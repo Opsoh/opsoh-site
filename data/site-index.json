@@ -1,0 +1,558 @@
+{
+  "version": "v27.48",
+  "generated": "2026-08-16",
+  "site": "OpsOh",
+  "domain": "https://opsoh.com",
+  "urls": [
+    {
+      "url": "/404.html",
+      "title": "Page Not Found — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/apps/bulk-delete-photos/",
+      "title": "Bulk Delete Photos | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/combine-photos-side-by-side/",
+      "title": "Combine Photos Side by Side | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/date-stamp-photos/",
+      "title": "Date Stamp Photos | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/delete-large-videos-fast/",
+      "title": "Delete Large Videos Fast | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/delete-screenshots/",
+      "title": "Delete Screenshots | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/export-calendar/",
+      "title": "Export Calendar | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/export-contacts/",
+      "title": "Export Contacts | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/export-health/",
+      "title": "Export Health — CSV Files & PDF Summaries | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/export-photos-zip-share/",
+      "title": "Export Photos - ZIP & Share | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/export-reminders/",
+      "title": "Export Reminders | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/extract-photo-from-video/",
+      "title": "Extract Photo from Video | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/file-cleaner/",
+      "title": "File Cleaner | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/",
+      "title": "iPhone Apps for Data, Photos, PDFs, Files & More | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/move-photos-between-albums/",
+      "title": "Move Photos Between Albums | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/pdf-page-extractor/",
+      "title": "PDF Page Extractor | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/pdf-redactor/",
+      "title": "PDF Redactor | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/pdf-rotate/",
+      "title": "PDF Rotate | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/photo-location-export/",
+      "title": "Photo Location Export | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/photo-to-text-pdf/",
+      "title": "Photo To Text PDF | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/photopdf-maker/",
+      "title": "PhotoPDF Maker | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/rename-photos/",
+      "title": "Bulk Rename Photos on iPhone | Rename Photos by OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/rename-videos/",
+      "title": "Rename Videos | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/save-audio-from-video/",
+      "title": "Save Audio from Video | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/shrink-gif-compress-gifs/",
+      "title": "Shrink GIF - Compress GIFs | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/shrink-pdf-email/",
+      "title": "Shrink PDF Email | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/shrink-video-size/",
+      "title": "Shrink Video Size | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/sort-photos-into-album/",
+      "title": "Sort Photos Into Album | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/sunpath/",
+      "title": "SunPath | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps/video-to-gif-no-watermark/",
+      "title": "Video to GIF – No Watermark | OpsOh",
+      "type": "app"
+    },
+    {
+      "url": "/apps.html",
+      "title": "iPhone Apps for Data, Photos, PDFs, Files & More | OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/blog/add-date-stamp-iphone-photos/",
+      "title": "How to Add a Date Stamp to iPhone Photos | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/apple-health-pdf-summary-trends/",
+      "title": "How to Create a Readable PDF Summary from Apple Health Data | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/backup-iphone-calendar/",
+      "title": "How to Back Up Your iPhone Calendar | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/backup-iphone-contacts-before-switching-phones/",
+      "title": "How to Back Up iPhone Contacts Before Switching Phones | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/clean-up-iphone-files-free-storage/",
+      "title": "How to Clean Up iPhone Files and Free Up Storage | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/clean-up-iphone-files-storage/",
+      "title": "How to Clean Up iPhone Files and Storage | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/combine-photos-iphone/",
+      "title": "How to Combine Photos on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/compress-iphone-videos/",
+      "title": "How to Compress iPhone Videos | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/compress-video-iphone/",
+      "title": "How to Compress Video on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/convert-video-to-gif-iphone/",
+      "title": "How to Convert Video to GIF on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/delete-downloaded-files-iphone/",
+      "title": "How to Delete Downloaded Files on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/delete-downloaded-files-on-iphone/",
+      "title": "How to Delete Downloaded Files on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-apple-health-data-csv/",
+      "title": "How to Export Apple Health Data to CSV on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-apple-health-data-iphone/",
+      "title": "How to Export Apple Health Data from iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-iphone-calendar-csv-ics/",
+      "title": "How to Export iPhone Calendar Events to CSV or ICS | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-iphone-calendar-to-excel/",
+      "title": "How to Export iPhone Calendar to Excel | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-iphone-calendar-without-icloud/",
+      "title": "How to Export iPhone Calendar Without iCloud | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-iphone-contacts-csv-vcf/",
+      "title": "How to Export iPhone Contacts to CSV or VCF | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-iphone-contacts-to-excel/",
+      "title": "How to Export iPhone Contacts to Excel | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-iphone-reminders/",
+      "title": "How to Export iPhone Reminders | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/export-iphone-reminders-csv-json/",
+      "title": "How to Export iPhone Reminders to CSV or JSON | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/extract-pages-from-pdf-iphone/",
+      "title": "How to Extract Pages from a PDF on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/extract-photo-from-video-iphone/",
+      "title": "How to Extract a Photo from Video on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/find-large-files-on-iphone/",
+      "title": "How to Find Large Files on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/how-to-export-iphone-calendar/",
+      "title": "How to Export iPhone Calendar | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/how-to-export-iphone-reminders/",
+      "title": "How to Export iPhone Reminders | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/how-to-rename-photos-on-iphone/",
+      "title": "How to Rename Photos on iPhone (Step-by-Step) | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/",
+      "title": "OpsOh Blog — iPhone Guides and Workflow Articles",
+      "type": "article"
+    },
+    {
+      "url": "/blog/make-pdf-iphone/",
+      "title": "How to Make a PDF on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/merge-pdf-files-iphone/",
+      "title": "How to Merge PDF Files on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/pdf-tools-iphone-merge-split/",
+      "title": "PDF Tools for iPhone: Merge and Split PDFs | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/photo-to-text-pdf-iphone/",
+      "title": "How to Turn iPhone Photos into a Text-Focused PDF | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/plan-golden-hour-photos-iphone/",
+      "title": "How to Plan Golden Hour Photos on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/redact-pdf-iphone/",
+      "title": "How to Redact a PDF on iPhone Before Sharing | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/rename-iphone-photos-for-work-organization/",
+      "title": "Rename iPhone Photos for Work, Receipts, Projects, and Organization | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/rename-iphone-photos-without-computer/",
+      "title": "How to Rename iPhone Photos Without a Computer | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/rename-iphone-videos/",
+      "title": "How to Rename iPhone Videos | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/rotate-pdf-iphone/",
+      "title": "How to Rotate a PDF on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/save-audio-from-video-iphone/",
+      "title": "How to Save Audio from a Video on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/save-iphone-contacts-without-icloud/",
+      "title": "How to Save iPhone Contacts Without iCloud | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/shrink-pdf-before-emailing/",
+      "title": "How to Shrink a PDF Before Emailing from iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/shrink-pdf-email-iphone/",
+      "title": "How to Shrink a PDF Before Emailing | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/split-pdf-files-iphone/",
+      "title": "How to Split PDF Files on iPhone | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/blog/why-iphone-photos-are-named-img-1234/",
+      "title": "Why iPhone Photos Are Named IMG_1234 — and How to Rename Them | OpsOh Guides",
+      "type": "article"
+    },
+    {
+      "url": "/bundles/export-data-suite/",
+      "title": "Export Data Suite | OpsOh Bundle",
+      "type": "page"
+    },
+    {
+      "url": "/bundles/",
+      "title": "OpsOh Bundles — Save with focused iOS app bundles",
+      "type": "page"
+    },
+    {
+      "url": "/bundles/pdf-tool-suite/",
+      "title": "PDF Tools Suite | OpsOh Bundle",
+      "type": "page"
+    },
+    {
+      "url": "/bundles/photo-organization-suite/",
+      "title": "Photo Organization Suite — OpsOh Bundle",
+      "type": "page"
+    },
+    {
+      "url": "/bundles/video-tools-suite/",
+      "title": "Video Tools Suite | OpsOh Bundle",
+      "type": "page"
+    },
+    {
+      "url": "/games/",
+      "title": "Games by OpsOh — iPhone & iPad Games",
+      "type": "game"
+    },
+    {
+      "url": "/guides/combine-photos-side-by-side/",
+      "title": "How to Combine Photos Side by Side on iPhone — OpsOh Guide",
+      "type": "page"
+    },
+    {
+      "url": "/guides/compress-gif-iphone/",
+      "title": "How to Compress GIFs on iPhone — OpsOh Guide",
+      "type": "page"
+    },
+    {
+      "url": "/guides/export-iphone-calendar-csv/",
+      "title": "Redirecting — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/guides/export-iphone-contacts/",
+      "title": "Redirecting — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/guides/export-iphone-reminders/",
+      "title": "Redirecting — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/guides/extract-audio-from-video-iphone/",
+      "title": "How to Save Audio from a Video on iPhone — OpsOh Guide",
+      "type": "page"
+    },
+    {
+      "url": "/guides/find-large-files-on-iphone/",
+      "title": "Redirecting — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/guides/",
+      "title": "iPhone Guides for Exporting Data, Photos, PDFs & More | OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/guides/plan-golden-hour-photos-iphone/",
+      "title": "How to Plan Golden Hour Photos on iPhone — OpsOh Guide",
+      "type": "page"
+    },
+    {
+      "url": "/guides/redact-pdf-iphone/",
+      "title": "How to Redact a PDF on iPhone — OpsOh Guide",
+      "type": "page"
+    },
+    {
+      "url": "/guides/remove-location-data-from-photos/",
+      "title": "How to Work With Photo Location Data on iPhone — OpsOh Guide",
+      "type": "page"
+    },
+    {
+      "url": "/guides.html",
+      "title": "iPhone Guides for Exporting Data, Photos, PDFs & More | OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/",
+      "title": "OpsOh — Focused apps built with purpose, polish, and privacy",
+      "type": "page"
+    },
+    {
+      "url": "/privacy/games/",
+      "title": "OpsOh Games Privacy Policy | OpsOh",
+      "type": "game"
+    },
+    {
+      "url": "/privacy/wordgrove/",
+      "title": "Wordgrove Privacy Policy | OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/privacy.html",
+      "title": "OpsOh Privacy Policies for iPhone & iPad Apps",
+      "type": "page"
+    },
+    {
+      "url": "/studio.html",
+      "title": "About OpsOh | Independent iPhone App & Game Studio",
+      "type": "page"
+    },
+    {
+      "url": "/support/combine-photos-side-by-side/",
+      "title": "Combine Photos - Side By Side Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/export-calendar/",
+      "title": "Export Calendar Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/export-reminders/",
+      "title": "Export Reminders Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/file-cleaner/",
+      "title": "File Cleaner Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/",
+      "title": "OpsOh App Support | Help for iPhone & iPad Apps",
+      "type": "page"
+    },
+    {
+      "url": "/support/pdf-redactor/",
+      "title": "PDF Redactor Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/photo-location-export/",
+      "title": "Photo Location Export Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/rename-photos/",
+      "title": "Rename Photos Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/save-audio-from-video/",
+      "title": "Save Audio from Video Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/shrink-gif-compress-gifs/",
+      "title": "Shrink GIF - Compress GIFs Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/support/sunpath/",
+      "title": "SunPath Support — OpsOh",
+      "type": "page"
+    },
+    {
+      "url": "/videos.html",
+      "title": "iPhone App Demos & Workflow Videos | OpsOh",
+      "type": "page"
+    }
+  ]
+}

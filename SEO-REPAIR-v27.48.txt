@@ -1,0 +1,23 @@
+OpsOh v27.48 SEO repair
+
+Automated repair summary:
+{
+  "html": 111,
+  "org_logo": 224,
+  "article_core": 89,
+  "breadcrumb": 95,
+  "metadata": 9
+}
+
+Primary fixes:
+- Organization logo schema now points to https://opsoh.com/assets/img/brand/opsoh-logo-transparent-2048.png
+- Article/BlogPosting schemas normalized to each page canonical URL
+- Breadcrumb final URLs/names normalized to each page canonical/H1
+- Article image/datePublished/dateModified added
+- Targeted metadata cleanup on high-value pages flagged by audit
+
+Not changed:
+- Visual layout/content body
+- robots.txt crawl policy
+- sitemap URL inventory
+- expected Cloudflare trailing-slash redirect behavior

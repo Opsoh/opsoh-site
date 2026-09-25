@@ -1,0 +1,1142 @@
+{
+  "version": "v27.48",
+  "generated": "2026-08-16",
+  "site": "OpsOh",
+  "domain": "https://opsoh.com",
+  "purpose": "Machine-readable relationship graph connecting OpsOh apps, guides, videos, studio, support, and social profiles.",
+  "nodes": [
+    {
+      "id": "organization:opsoh",
+      "type": "organization",
+      "name": "OpsOh",
+      "url": "https://opsoh.com",
+      "sameAs": [
+        "https://www.linkedin.com/company/opsoh",
+        "https://www.youtube.com/@OpsOh1"
+      ]
+    },
+    {
+      "id": "app:sunpath",
+      "type": "app",
+      "name": "SunPath",
+      "url": "/apps/sunpath/",
+      "app_store_url": "https://apps.apple.com/us/app/sunpath/id6776793803",
+      "category": "Light & Planning",
+      "summary": "Plan sunrise, sunset, golden hour, and better natural light for outdoor photography moments."
+    },
+    {
+      "id": "app:export-calendar",
+      "type": "app",
+      "name": "Export Calendar",
+      "url": "/apps/export-calendar/",
+      "app_store_url": "https://apps.apple.com/us/app/export-calendar-csv-ics/id6759506126",
+      "category": "Export & Productivity",
+      "summary": "Export calendar events to CSV or ICS for records, spreadsheets, backups, and planning on iPhone and Android.",
+      "google_play_url": "https://play.google.com/store/apps/details?id=com.opsoh.exportcalendar"
+    },
+    {
+      "id": "app:export-contacts",
+      "type": "app",
+      "name": "Export Contacts",
+      "url": "/apps/export-contacts/",
+      "app_store_url": "https://apps.apple.com/us/app/export-contacts-csv-vcf/id6759071572",
+      "category": "Export & Productivity",
+      "summary": "Save iPhone contacts to CSV or VCF for backups, records, and spreadsheet workflows."
+    },
+    {
+      "id": "app:export-reminders",
+      "type": "app",
+      "name": "Export Reminders",
+      "url": "/apps/export-reminders/",
+      "app_store_url": "https://apps.apple.com/us/app/export-reminders-to-csv-json/id6759563567",
+      "category": "Export & Productivity",
+      "summary": "Export reminders for planning, backups, records, and task review workflows."
+    },
+    {
+      "id": "app:export-photos-zip-share",
+      "type": "app",
+      "name": "Export Photos - ZIP & Share",
+      "url": "/apps/export-photos-zip-share/",
+      "app_store_url": "https://apps.apple.com/us/app/export-photos-zip-share/id6759607419",
+      "category": "Export & Productivity",
+      "summary": "Package selected iPhone photos into a ZIP file for sharing, saving, or moving groups of images."
+    },
+    {
+      "id": "app:rename-photos",
+      "type": "app",
+      "name": "Rename Photos",
+      "url": "/apps/rename-photos/",
+      "app_store_url": "https://apps.apple.com/us/app/rename-photos/id6757441584",
+      "category": "Photos & Media",
+      "summary": "Batch rename photos, screenshots, and supported files with flexible naming rules, live previews, format control, ZIP sharing, and private on-device processing."
+    },
+    {
+      "id": "app:combine-photos-side-by-side",
+      "type": "app",
+      "name": "Combine Photos Side by Side",
+      "url": "/apps/combine-photos-side-by-side/",
+      "app_store_url": "https://apps.apple.com/us/app/combine-photos-side-by-side/id6758624876",
+      "category": "Photos & Media",
+      "summary": "Combine multiple photos into one image for sharing, comparison, layouts, and visual records."
+    },
+    {
+      "id": "app:date-stamp-photos",
+      "type": "app",
+      "name": "Date Stamp Photos",
+      "url": "/apps/date-stamp-photos/",
+      "app_store_url": "https://apps.apple.com/us/app/date-stamp-photos/id6758065631",
+      "category": "Photos & Media",
+      "summary": "Add visible date stamps to iPhone photos for records, memories, travel, and documentation."
+    },
+    {
+      "id": "app:sort-photos-into-album",
+      "type": "app",
+      "name": "Sort Photos Into Album",
+      "url": "/apps/sort-photos-into-album/",
+      "app_store_url": "https://apps.apple.com/us/app/sort-photos-into-album/id6760555271",
+      "category": "Photos & Media",
+      "summary": "Move selected iPhone photos into albums so related images are easier to organize."
+    },
+    {
+      "id": "app:move-photos-between-albums",
+      "type": "app",
+      "name": "Move Photos Between Albums",
+      "url": "/apps/move-photos-between-albums/",
+      "app_store_url": "https://apps.apple.com/us/app/move-photos-between-albums/id6760366977",
+      "category": "Photos & Media",
+      "summary": "Reorganize photo albums by moving selected images where they belong."
+    },
+    {
+      "id": "app:bulk-delete-photos",
+      "type": "app",
+      "name": "Bulk Delete Photos",
+      "url": "/apps/bulk-delete-photos/",
+      "app_store_url": "https://apps.apple.com/us/app/bulk-delete-photos/id6760352814",
+      "category": "Photos & Media",
+      "summary": "Review and remove selected photo groups with a focused cleanup workflow."
+    },
+    {
+      "id": "app:delete-screenshots",
+      "type": "app",
+      "name": "Delete Screenshots",
+      "url": "/apps/delete-screenshots/",
+      "app_store_url": "https://apps.apple.com/us/app/delete-screenshots/id6760718990",
+      "category": "Photos & Media",
+      "summary": "Find and remove screenshot clutter from your photo library."
+    },
+    {
+      "id": "app:rename-videos",
+      "type": "app",
+      "name": "Rename Videos",
+      "url": "/apps/rename-videos/",
+      "app_store_url": "https://apps.apple.com/us/app/rename-videos/id6760619374",
+      "category": "Video Tools",
+      "summary": "Rename iPhone video clips with clearer names for projects, records, and media organization."
+    },
+    {
+      "id": "app:video-to-gif-no-watermark",
+      "type": "app",
+      "name": "Video to GIF – No Watermark",
+      "url": "/apps/video-to-gif-no-watermark/",
+      "app_store_url": "https://apps.apple.com/us/app/video-to-gif-no-watermark/id6758457973",
+      "category": "Video Tools",
+      "summary": "Turn video clips into GIFs without adding a watermark."
+    },
+    {
+      "id": "app:shrink-video-size",
+      "type": "app",
+      "name": "Shrink Video Size",
+      "url": "/apps/shrink-video-size/",
+      "app_store_url": "https://apps.apple.com/us/app/shrink-video-size/id6758304919",
+      "category": "Video Tools",
+      "summary": "Compress large video files to reduce storage size and make sharing easier."
+    },
+    {
+      "id": "app:delete-large-videos-fast",
+      "type": "app",
+      "name": "Delete Large Videos Fast",
+      "url": "/apps/delete-large-videos-fast/",
+      "app_store_url": "https://apps.apple.com/us/app/delete-large-videos-fast/id6759452893",
+      "category": "Video Tools",
+      "summary": "Find storage-heavy videos and clean up media clutter more directly."
+    },
+    {
+      "id": "app:extract-photo-from-video",
+      "type": "app",
+      "name": "Extract Photo from Video",
+      "url": "/apps/extract-photo-from-video/",
+      "app_store_url": "https://apps.apple.com/us/app/extract-photo-from-video/id6758530303",
+      "category": "Video Tools",
+      "summary": "Save useful frames from videos as photos for sharing, records, or creative work."
+    },
+    {
+      "id": "app:save-audio-from-video",
+      "type": "app",
+      "name": "Save Audio from Video",
+      "url": "/apps/save-audio-from-video/",
+      "app_store_url": "https://apps.apple.com/us/app/save-audio-from-video/id6758519988",
+      "category": "Video Tools",
+      "summary": "Extract and save audio from video files for focused media workflows."
+    },
+    {
+      "id": "app:shrink-gif-compress-gifs",
+      "type": "app",
+      "name": "Shrink GIF - Compress GIFs",
+      "url": "/apps/shrink-gif-compress-gifs/",
+      "app_store_url": "https://apps.apple.com/us/app/shrink-gif-compress-gifs/id6758728637",
+      "category": "Video Tools",
+      "summary": "Compress GIF files so they are easier to save, send, and share."
+    },
+    {
+      "id": "app:photopdf-maker",
+      "type": "app",
+      "name": "PhotoPDF Maker",
+      "url": "/apps/photopdf-maker/",
+      "app_store_url": "https://apps.apple.com/us/app/photopdf-maker/id6757542852",
+      "category": "PDF Tools",
+      "summary": "Create PDF files from selected photos for records, forms, or sharing."
+    },
+    {
+      "id": "app:photo-to-text-pdf",
+      "type": "app",
+      "name": "Photo To Text PDF",
+      "url": "/apps/photo-to-text-pdf/",
+      "app_store_url": "https://apps.apple.com/us/app/photo-to-text-pdf/id6757924108",
+      "category": "PDF Tools",
+      "summary": "Create text-focused PDF workflows from photo-based content."
+    },
+    {
+      "id": "app:pdf-page-extractor",
+      "type": "app",
+      "name": "PDF Page Extractor",
+      "url": "/apps/pdf-page-extractor/",
+      "app_store_url": "https://apps.apple.com/us/app/pdf-page-extractor/id6758787627",
+      "category": "PDF Tools",
+      "summary": "Extract selected pages from a PDF into a smaller, more focused document."
+    },
+    {
+      "id": "app:pdf-rotate",
+      "type": "app",
+      "name": "PDF Rotate",
+      "url": "/apps/pdf-rotate/",
+      "app_store_url": "https://apps.apple.com/us/app/pdf-rotate/id6758246702",
+      "category": "PDF Tools",
+      "summary": "Rotate PDF pages to fix document orientation before saving or sharing."
+    },
+    {
+      "id": "app:shrink-pdf-email",
+      "type": "app",
+      "name": "Shrink PDF Email",
+      "url": "/apps/shrink-pdf-email/",
+      "app_store_url": "https://apps.apple.com/us/app/shrink-pdf-email/id6758271926",
+      "category": "PDF Tools",
+      "summary": "Compress PDF files so they are easier to send, save, and share."
+    },
+    {
+      "id": "app:pdf-redactor",
+      "type": "app",
+      "name": "PDF Redactor",
+      "url": "/apps/pdf-redactor/",
+      "app_store_url": "https://apps.apple.com/us/app/pdf-redactor/id6758163852",
+      "category": "Documents & Privacy",
+      "summary": "Protect private information in PDFs before saving or sharing documents."
+    },
+    {
+      "id": "app:file-cleaner",
+      "type": "app",
+      "name": "File Cleaner",
+      "url": "/apps/file-cleaner/",
+      "app_store_url": "https://apps.apple.com/us/app/file-cleaner/id6758671473",
+      "category": "Files & Storage",
+      "summary": "Find large files and clean storage with a focused iPhone file workflow."
+    },
+    {
+      "id": "app:photo-location-export",
+      "type": "app",
+      "name": "Photo Location Export",
+      "url": "/apps/photo-location-export/",
+      "app_store_url": "https://apps.apple.com/us/app/photo-location-export/id6760786144",
+      "category": "Photos & Media",
+      "summary": "Export photo location details for records, travel, projects, and useful photo context."
+    },
+    {
+      "id": "guide:export-iphone-calendar-csv-ics",
+      "type": "guide",
+      "name": "How to Export iPhone Calendar Events to CSV",
+      "url": "/blog/export-iphone-calendar-csv-ics/",
+      "category": "Export & Productivity",
+      "summary": "Learn how to save iPhone calendar events as CSV or ICS files so they can be used in spreadsheets, records, backups, and planning workflows.",
+      "content_status": "review_before_publish"
+    },
+    {
+      "id": "guide:export-iphone-contacts-csv-vcf",
+      "type": "guide",
+      "name": "How to Export iPhone Contacts to CSV or VCF",
+      "url": "/blog/export-iphone-contacts-csv-vcf/",
+      "category": "Export & Productivity",
+      "summary": "Exporting contacts can be useful when you need a backup, a spreadsheet-friendly contact list, or a file you can move outside your phone.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:export-iphone-reminders",
+      "type": "guide",
+      "name": "How to Export iPhone Reminders",
+      "url": "/blog/export-iphone-reminders/",
+      "category": "Export & Productivity",
+      "summary": "Exporting reminders can help you save task lists, review planning history, keep backups, or move reminders into another workflow.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:rename-iphone-photos-without-computer",
+      "type": "guide",
+      "name": "How to Rename iPhone Photos Without a Computer",
+      "url": "/blog/rename-iphone-photos-without-computer/",
+      "category": "Photos & Media",
+      "summary": "You can rename iPhone photos without moving them to a computer by using a focused iOS workflow for clearer, more useful filenames.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:add-date-stamp-iphone-photos",
+      "type": "guide",
+      "name": "How to Add a Date Stamp to iPhone Photos",
+      "url": "/blog/add-date-stamp-iphone-photos/",
+      "category": "Photos & Media",
+      "summary": "Adding a visible date stamp to iPhone photos can make images easier to use for records, travel, documentation, memories, and proof of timing.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:combine-photos-iphone",
+      "type": "guide",
+      "name": "How to Combine Photos on iPhone",
+      "url": "/blog/combine-photos-iphone/",
+      "category": "Photos & Media",
+      "summary": "Combining photos on iPhone helps create one image for comparison, sharing, documentation, layouts, before-and-after views, and visual records.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:find-large-files-on-iphone",
+      "type": "guide",
+      "name": "How to Find Large Files on iPhone",
+      "url": "/blog/find-large-files-on-iphone/",
+      "category": "Files & Storage",
+      "summary": "Finding large files on iPhone can help you understand what is using storage and decide what to delete, move, or keep.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:delete-downloaded-files-iphone",
+      "type": "guide",
+      "name": "How to Delete Downloaded Files on iPhone",
+      "url": "/blog/delete-downloaded-files-iphone/",
+      "category": "Files & Storage",
+      "summary": "Deleting downloaded files on iPhone can free storage and remove old PDFs, videos, ZIP files, documents, and temporary files you no longer need.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:clean-up-iphone-files-free-storage",
+      "type": "guide",
+      "name": "How to Clean Up iPhone Files and Free Up Storage",
+      "url": "/blog/clean-up-iphone-files-free-storage/",
+      "category": "Files & Storage",
+      "summary": "Cleaning up iPhone files can free storage by finding downloads, large documents, old exports, ZIP files, PDFs, and other files you no longer need.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:rename-iphone-videos",
+      "type": "guide",
+      "name": "How to Rename iPhone Videos",
+      "url": "/blog/rename-iphone-videos/",
+      "category": "Video Tools",
+      "summary": "Renaming iPhone videos can make clips easier to identify, organize, share, archive, and use in projects without relying only on thumbnails.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:compress-video-iphone",
+      "type": "guide",
+      "name": "How to Compress Video on iPhone",
+      "url": "/blog/compress-video-iphone/",
+      "category": "Video Tools",
+      "summary": "Compressing video on iPhone helps reduce file size so clips are easier to send, upload, save, and share without keeping every file at maximum size.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:convert-video-to-gif-iphone",
+      "type": "guide",
+      "name": "How to Convert Video to GIF on iPhone",
+      "url": "/blog/convert-video-to-gif-iphone/",
+      "category": "Video Tools",
+      "summary": "Converting a video to GIF on iPhone makes a short clip easier to loop, share, post, save, or use as a lightweight visual without sending the full video.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:save-audio-from-video-iphone",
+      "type": "guide",
+      "name": "How to Save Audio from a Video on iPhone",
+      "url": "/blog/save-audio-from-video-iphone/",
+      "category": "Video Tools",
+      "summary": "Saving audio from an iPhone video helps turn a recording into a separate audio file for notes, voice clips, sound references, interviews, or creative reuse.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:make-pdf-iphone",
+      "type": "guide",
+      "name": "How to Make a PDF on iPhone",
+      "url": "/blog/make-pdf-iphone/",
+      "category": "PDF Tools",
+      "summary": "Making a PDF on iPhone helps turn photos, scans, or image-based records into a document that is easier to send, save, upload, or archive.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:shrink-pdf-email-iphone",
+      "type": "guide",
+      "name": "How to Shrink a PDF Before Emailing",
+      "url": "/blog/shrink-pdf-email-iphone/",
+      "category": "PDF Tools",
+      "summary": "Shrinking a PDF before emailing helps reduce file size so documents are easier to attach, send, upload, and share from iPhone.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:rotate-pdf-iphone",
+      "type": "guide",
+      "name": "How to Rotate a PDF on iPhone",
+      "url": "/blog/rotate-pdf-iphone/",
+      "category": "PDF Tools",
+      "summary": "Rotating a PDF on iPhone helps fix sideways or upside-down pages before saving, sending, printing, uploading, or archiving a document.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:extract-pages-from-pdf-iphone",
+      "type": "guide",
+      "name": "How to Extract Pages from a PDF on iPhone",
+      "url": "/blog/extract-pages-from-pdf-iphone/",
+      "category": "PDF Tools",
+      "summary": "Extracting pages from a PDF on iPhone helps create a smaller document that contains only the pages you need to save, send, upload, or share.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:plan-golden-hour-photos-iphone",
+      "type": "guide",
+      "name": "How to Plan Golden Hour Photos on iPhone",
+      "url": "/blog/plan-golden-hour-photos-iphone/",
+      "category": "Photos & Media",
+      "summary": "Plan better outdoor photos with golden hour timing, sunrise, sunset, sun direction, and light context using SunPath.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:backup-iphone-calendar",
+      "type": "guide",
+      "name": "Backup iPhone Calendar",
+      "url": "/blog/backup-iphone-calendar/",
+      "category": "Export & Productivity",
+      "summary": "A calendar backup can help preserve important events before switching devices, changing accounts, reorganizing calendars, or cleaning up old data.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:backup-iphone-contacts-before-switching-phones",
+      "type": "guide",
+      "name": "Backup iPhone Contacts Before Switching Phones",
+      "url": "/blog/backup-iphone-contacts-before-switching-phones/",
+      "category": "Export & Productivity",
+      "summary": "Before switching phones, exporting contacts gives you a separate file-based backup in case syncing, account settings, or imports do not go as expected.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:clean-up-iphone-files-storage",
+      "type": "guide",
+      "name": "How to Clean Up iPhone Files and Storage",
+      "url": "/blog/clean-up-iphone-files-storage/",
+      "category": "Files & Storage",
+      "summary": "Cleaning up iPhone files and storage means reviewing what is actually saved on the device, then removing or moving files that no longer belong there.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:delete-downloaded-files-on-iphone",
+      "type": "guide",
+      "name": "How to Delete Downloaded Files on iPhone",
+      "url": "/blog/delete-downloaded-files-on-iphone/",
+      "category": "Files & Storage",
+      "summary": "Deleting downloaded files on iPhone can free storage by removing old PDFs, videos, ZIP files, documents, and temporary files you no longer need.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:export-iphone-calendar-to-excel",
+      "type": "guide",
+      "name": "Export iPhone Calendar to Excel",
+      "url": "/blog/export-iphone-calendar-to-excel/",
+      "category": "Export & Productivity",
+      "summary": "If you need calendar events in Excel, exporting iPhone calendar data to CSV is usually the simplest spreadsheet-friendly path.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:export-iphone-calendar-without-icloud",
+      "type": "guide",
+      "name": "Export iPhone Calendar Without iCloud",
+      "url": "/blog/export-iphone-calendar-without-icloud/",
+      "category": "Export & Productivity",
+      "summary": "You can keep a file-based copy of iPhone calendar events without relying only on iCloud sync by exporting the calendar data you need.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:export-iphone-contacts-to-excel",
+      "type": "guide",
+      "name": "Export iPhone Contacts to Excel",
+      "url": "/blog/export-iphone-contacts-to-excel/",
+      "category": "Export & Productivity",
+      "summary": "To use iPhone contacts in Excel, export them to CSV so names, phone numbers, emails, and other fields can be reviewed in a spreadsheet.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:export-iphone-reminders-csv-json",
+      "type": "guide",
+      "name": "Export iPhone Reminders to CSV or JSON",
+      "url": "/blog/export-iphone-reminders-csv-json/",
+      "category": "Export & Productivity",
+      "summary": "CSV and JSON exports can make iPhone reminders easier to review, archive, analyze, or move into another workflow.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:how-to-export-iphone-calendar",
+      "type": "guide",
+      "name": "How to Export iPhone Calendar",
+      "url": "/blog/how-to-export-iphone-calendar/",
+      "category": "Export & Productivity",
+      "summary": "Exporting an iPhone calendar means turning calendar events into a file you can save, review, import, or use outside the Calendar app.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:how-to-export-iphone-reminders",
+      "type": "guide",
+      "name": "How to Export iPhone Reminders",
+      "url": "/blog/how-to-export-iphone-reminders/",
+      "category": "Export & Productivity",
+      "summary": "Exporting iPhone reminders creates a file-based copy of task lists so reminders can be reviewed, archived, backed up, or used outside the Reminders app.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:how-to-rename-photos-on-iphone",
+      "type": "guide",
+      "name": "How To Rename Photos On Iphone",
+      "url": "/blog/how-to-rename-photos-on-iphone/",
+      "category": "Photos & Media",
+      "summary": "Provide a step-by-step guide to renaming photos on iphone. Related OpsOh app: Rename Photos.",
+      "content_status": "review_before_publish"
+    },
+    {
+      "id": "guide:rename-iphone-photos-for-work-organization",
+      "type": "guide",
+      "name": "Rename Iphone Photos For Work Organization",
+      "url": "/blog/rename-iphone-photos-for-work-organization/",
+      "category": "Photos & Media",
+      "summary": "Show practical uses for renaming iphone photos. Related OpsOh app: Rename Photos.",
+      "content_status": "review_before_publish"
+    },
+    {
+      "id": "guide:save-iphone-contacts-without-icloud",
+      "type": "guide",
+      "name": "Save iPhone Contacts Without iCloud",
+      "url": "/blog/save-iphone-contacts-without-icloud/",
+      "category": "Export & Productivity",
+      "summary": "Saving iPhone contacts without relying only on iCloud means exporting a separate contact file you can keep, review, archive, or import later.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:why-iphone-photos-are-named-img-1234",
+      "type": "guide",
+      "name": "Why Iphone Photos Are Named Img 1234",
+      "url": "/blog/why-iphone-photos-are-named-img-1234/",
+      "category": "Photos & Media",
+      "summary": "Explain why iphone photos use generic img filenames and how to create clearer names. Related OpsOh app: Rename Photos.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:photo-to-text-pdf-iphone",
+      "type": "guide",
+      "name": "How to Turn Photos into a Text-Focused PDF on iPhone",
+      "url": "/blog/photo-to-text-pdf-iphone/",
+      "category": "PDF Tools",
+      "summary": "Turn photo-based information into a more document-friendly PDF workflow on iPhone.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:compress-iphone-videos",
+      "type": "guide",
+      "name": "How to Compress iPhone Videos",
+      "url": "/blog/compress-iphone-videos/",
+      "category": "Video Tools",
+      "summary": "Compress iPhone videos so clips are easier to send, upload, save, and share.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:extract-photo-from-video-iphone",
+      "type": "guide",
+      "name": "How to Extract a Photo from Video on iPhone",
+      "url": "/blog/extract-photo-from-video-iphone/",
+      "category": "Video Tools",
+      "summary": "Save a still image from an iPhone video for memories, thumbnails, records, or reference.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:merge-pdf-files-iphone",
+      "type": "guide",
+      "name": "How to Merge PDF Files on iPhone",
+      "url": "/blog/merge-pdf-files-iphone/",
+      "category": "PDF Tools",
+      "summary": "Create organized PDF document workflows on iPhone for sharing, records, and forms.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:pdf-tools-iphone-merge-split",
+      "type": "guide",
+      "name": "PDF Tools for iPhone: Merge and Split PDFs",
+      "url": "/blog/pdf-tools-iphone-merge-split/",
+      "category": "PDF Tools",
+      "summary": "Manage PDF workflows on iPhone when documents need to be combined, separated, shared, or archived.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:redact-pdf-iphone",
+      "type": "guide",
+      "name": "How to Redact a PDF on iPhone Before Sharing",
+      "url": "/blog/redact-pdf-iphone/",
+      "category": "Documents & Privacy",
+      "summary": "Protect private information in PDFs before saving, sending, uploading, or sharing.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:shrink-pdf-before-emailing",
+      "type": "guide",
+      "name": "How to Shrink a PDF Before Emailing from iPhone",
+      "url": "/blog/shrink-pdf-before-emailing/",
+      "category": "PDF Tools",
+      "summary": "Reduce PDF file size so documents are easier to email, upload, and share.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "guide:split-pdf-files-iphone",
+      "type": "guide",
+      "name": "How to Split PDF Files on iPhone",
+      "url": "/blog/split-pdf-files-iphone/",
+      "category": "PDF Tools",
+      "summary": "Extract or separate PDF pages on iPhone to create smaller, cleaner documents.",
+      "content_status": "published_reviewed"
+    },
+    {
+      "id": "video:sunpath-new-ios-app",
+      "type": "video",
+      "name": "SunPath — New iOS App",
+      "url": "/assets/video/sunpath-new-ios-app.mp4",
+      "poster": "/assets/video/sunpath-new-ios-app-poster.jpg",
+      "category": "Light & Planning",
+      "summary": "A short Apple-generated promo video introducing SunPath, an iOS app for planning golden hour, sunrise, sunset, and outdoor light moments."
+    },
+    {
+      "id": "video:export-iphone-contacts-to-csv-or-vcf-in-seconds",
+      "type": "video",
+      "name": "Export iPhone Contacts to CSV or VCF in Seconds",
+      "url": "https://youtube.com/shorts/1Xf_vJUlpak",
+      "poster": null,
+      "category": "Export & Productivity",
+      "summary": "Shows how Export Contacts helps save iPhone contacts to portable files for backup, records, or spreadsheet workflows."
+    },
+    {
+      "id": "video:add-a-visible-date-stamp-to-iphone-photos",
+      "type": "video",
+      "name": "Add a Visible Date Stamp to iPhone Photos",
+      "url": "https://youtube.com/shorts/wqEcXm1EmJE",
+      "poster": null,
+      "category": "Photos & Media",
+      "summary": "Shows an iPhone photo workflow for adding a visible date stamp to photos."
+    },
+    {
+      "id": "video:still-sending-photos-one-by-one",
+      "type": "video",
+      "name": "Still Sending Photos One by One?",
+      "url": "https://youtube.com/shorts/KUARjNPlUJA",
+      "poster": null,
+      "category": "Photos & Media",
+      "summary": "Shows a faster way to package and share selected iPhone photos instead of sending them one by one."
+    },
+    {
+      "id": "video:combine-multiple-photos-into-one-on-iphone",
+      "type": "video",
+      "name": "Combine Multiple Photos Into One on iPhone",
+      "url": "https://youtube.com/shorts/ujkztLRsebk",
+      "poster": null,
+      "category": "Photos & Media",
+      "summary": "Shows how to combine multiple iPhone photos into one image for sharing, comparison, or simple layouts."
+    },
+    {
+      "id": "video:switching-iphones-save-your-reminders-first",
+      "type": "video",
+      "name": "Switching iPhones? Save Your Reminders First",
+      "url": "https://youtube.com/shorts/3Ig3oaqkWRs",
+      "poster": null,
+      "category": "Export & Productivity",
+      "summary": "Shows why exporting reminders can be useful before switching iPhones or keeping task records."
+    },
+    {
+      "id": "video:tired-of-img-1234-photo-names-rename-iphone-photos-in-seconds",
+      "type": "video",
+      "name": "Tired of IMG_1234 Photo Names? Rename iPhone Photos in Seconds",
+      "url": "https://youtube.com/shorts/a59o3TbhpvA",
+      "poster": null,
+      "category": "Photos & Media",
+      "summary": "Shows how Rename Photos helps batch rename iPhone photos with clearer filenames."
+    },
+    {
+      "id": "video:iphone-doesn-t-let-you-export-your-calendar-here-s-how",
+      "type": "video",
+      "name": "iPhone doesn’t let you export your calendar… here’s how",
+      "url": "https://youtube.com/shorts/DQAA345QeiU",
+      "poster": null,
+      "category": "Export & Productivity",
+      "summary": "Shows how Export Calendar helps save iPhone calendar events for Excel, CSV, records, or moving phones."
+    },
+    {
+      "id": "video:don-t-switch-iphone-before-doing-this-export-your-calendar",
+      "type": "video",
+      "name": "Don’t switch iPhone before doing this (Export your calendar)",
+      "url": "https://youtube.com/shorts/yYtupo3o2sU",
+      "poster": null,
+      "category": "Export & Productivity",
+      "summary": "Shows how Export Calendar helps save iPhone calendar events for Excel, CSV, records, or moving phones."
+    },
+    {
+      "id": "video:export-iphone-calendar-to-excel-in-seconds",
+      "type": "video",
+      "name": "Export iPhone Calendar to Excel in Seconds",
+      "url": "https://youtube.com/shorts/dFEeGvbUcRk",
+      "poster": null,
+      "category": "Export & Productivity",
+      "summary": "Shows how Export Calendar helps save iPhone calendar events for Excel, CSV, records, or moving phones."
+    },
+    {
+      "id": "video:rename-iphone-photos-in-seconds-batch-rename-made-easy",
+      "type": "video",
+      "name": "Rename iPhone Photos in Seconds (Batch Rename Made Easy)",
+      "url": "https://youtube.com/shorts/ekkzM45l2o4",
+      "poster": null,
+      "category": "Photos & Media",
+      "summary": "Shows how Rename Photos helps batch rename iPhone photos with clearer filenames."
+    },
+    {
+      "id": "video:rename-videos-walkthrough",
+      "type": "video",
+      "name": "Rename Videos walkthrough",
+      "url": null,
+      "poster": null,
+      "category": "Video Tools",
+      "summary": "A future walkthrough for showing how Rename Videos helps make iPhone video clips easier to recognize and organize."
+    },
+    {
+      "id": "video:video-tools-suite-overview",
+      "type": "video",
+      "name": "Video Tools Suite overview",
+      "url": null,
+      "poster": null,
+      "category": "Bundles",
+      "summary": "A future bundle overview for GIF creation, video compression, audio extraction, frame capture, and large video cleanup."
+    },
+    {
+      "id": "video:export-data-suite-overview",
+      "type": "video",
+      "name": "Export Data Suite overview",
+      "url": null,
+      "poster": null,
+      "category": "Bundles",
+      "summary": "A future bundle overview for calendar, contacts, reminders, and photo ZIP export workflows."
+    },
+    {
+      "id": "video:photo-organization-suite-overview",
+      "type": "video",
+      "name": "Photo Organization Suite overview",
+      "url": null,
+      "poster": null,
+      "category": "Bundles",
+      "summary": "A future bundle overview for photo renaming, album organization, bulk delete, and screenshot cleanup workflows."
+    },
+    {
+      "id": "video:pdf-tools-suite-overview",
+      "type": "video",
+      "name": "PDF Tools Suite overview",
+      "url": null,
+      "poster": null,
+      "category": "Bundles",
+      "summary": "A future bundle overview for creating, rotating, extracting, shrinking, and organizing PDF files."
+    },
+    {
+      "id": "video:sunpath-light-planning-overview",
+      "type": "video",
+      "name": "SunPath light planning overview",
+      "url": null,
+      "poster": null,
+      "category": "Light & Planning",
+      "summary": "A future walkthrough for planning sunrise, sunset, golden hour, and outdoor light moments."
+    },
+    {
+      "id": "social:youtube",
+      "type": "social_profile",
+      "name": "OpsOh on YouTube",
+      "url": "https://www.youtube.com/@OpsOh1",
+      "summary": "Official OpsOh YouTube channel for app videos and demos."
+    },
+    {
+      "id": "social:linkedin",
+      "type": "social_profile",
+      "name": "OpsOh on LinkedIn",
+      "url": "https://www.linkedin.com/company/opsoh",
+      "summary": "Official OpsOh LinkedIn profile."
+    },
+    {
+      "id": "app:export-health",
+      "type": "app",
+      "name": "Export Health",
+      "url": "/apps/export-health/",
+      "app_store_url": "https://apps.apple.com/us/app/export-health/id6785631256",
+      "category": "Health Data",
+      "summary": "Export selected Apple Health records to CSV or create readable PDF summaries."
+    },
+    {
+      "id": "page:games",
+      "type": "page",
+      "name": "Games by OpsOh",
+      "url": "/games/",
+      "summary": "Word, logic, and casual arcade games from OpsOh."
+    },
+    {
+      "id": "guide:export-apple-health-data-csv",
+      "type": "guide",
+      "name": "How to Export Apple Health Data to CSV on iPhone",
+      "url": "/blog/export-apple-health-data-csv/",
+      "related_app": "app:export-health",
+      "summary": "CSV is useful when you want selected Apple Health records in a structured, spreadsheet-friendly format instead of a large all-or-nothing archive."
+    },
+    {
+      "id": "guide:export-apple-health-data-iphone",
+      "type": "guide",
+      "name": "How to Export Apple Health Data from iPhone",
+      "url": "/blog/export-apple-health-data-iphone/",
+      "related_app": "app:export-health",
+      "summary": "There are two very different kinds of Health export on iPhone: Apple’s complete archive and a focused export of selected categories and dates."
+    },
+    {
+      "id": "guide:apple-health-pdf-summary-trends",
+      "type": "guide",
+      "name": "How to Create a Readable PDF Summary from Apple Health Data",
+      "url": "/blog/apple-health-pdf-summary-trends/",
+      "related_app": "app:export-health",
+      "summary": "Raw Health records are useful for analysis, but sometimes you need a document you can read at a glance. A PDF summary can turn selected data into metrics and monthly trends without pretending to be a medical report."
+    }
+  ],
+  "edges": [
+    {
+      "from": "guide:export-iphone-calendar-csv-ics",
+      "to": "app:export-calendar",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:export-iphone-contacts-csv-vcf",
+      "to": "app:export-contacts",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:export-iphone-reminders",
+      "to": "app:export-reminders",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:rename-iphone-photos-without-computer",
+      "to": "app:rename-photos",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:add-date-stamp-iphone-photos",
+      "to": "app:date-stamp-photos",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:combine-photos-iphone",
+      "to": "app:combine-photos-side-by-side",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:find-large-files-on-iphone",
+      "to": "app:file-cleaner",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:delete-downloaded-files-iphone",
+      "to": "app:file-cleaner",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:clean-up-iphone-files-free-storage",
+      "to": "app:file-cleaner",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:rename-iphone-videos",
+      "to": "app:rename-videos",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:compress-video-iphone",
+      "to": "app:shrink-video-size",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:convert-video-to-gif-iphone",
+      "to": "app:video-to-gif-no-watermark",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:save-audio-from-video-iphone",
+      "to": "app:save-audio-from-video",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:make-pdf-iphone",
+      "to": "app:photopdf-maker",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:shrink-pdf-email-iphone",
+      "to": "app:shrink-pdf-email",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:rotate-pdf-iphone",
+      "to": "app:pdf-rotate",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:extract-pages-from-pdf-iphone",
+      "to": "app:pdf-page-extractor",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:plan-golden-hour-photos-iphone",
+      "to": "app:sunpath",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:backup-iphone-calendar",
+      "to": "app:export-calendar",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:backup-iphone-contacts-before-switching-phones",
+      "to": "app:export-contacts",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:clean-up-iphone-files-storage",
+      "to": "app:file-cleaner",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:delete-downloaded-files-on-iphone",
+      "to": "app:file-cleaner",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:export-iphone-calendar-to-excel",
+      "to": "app:export-calendar",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:export-iphone-calendar-without-icloud",
+      "to": "app:export-calendar",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:export-iphone-contacts-to-excel",
+      "to": "app:export-contacts",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:export-iphone-reminders-csv-json",
+      "to": "app:export-reminders",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:how-to-export-iphone-calendar",
+      "to": "app:export-calendar",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:how-to-export-iphone-reminders",
+      "to": "app:export-reminders",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:how-to-rename-photos-on-iphone",
+      "to": "app:rename-photos",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:rename-iphone-photos-for-work-organization",
+      "to": "app:rename-photos",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:save-iphone-contacts-without-icloud",
+      "to": "app:export-contacts",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:why-iphone-photos-are-named-img-1234",
+      "to": "app:rename-photos",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:photo-to-text-pdf-iphone",
+      "to": "app:photo-to-text-pdf",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:compress-iphone-videos",
+      "to": "app:shrink-video-size",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:extract-photo-from-video-iphone",
+      "to": "app:extract-photo-from-video",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:merge-pdf-files-iphone",
+      "to": "app:photopdf-maker",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:pdf-tools-iphone-merge-split",
+      "to": "app:photopdf-maker",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:redact-pdf-iphone",
+      "to": "app:pdf-redactor",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:shrink-pdf-before-emailing",
+      "to": "app:shrink-pdf-email",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "guide:split-pdf-files-iphone",
+      "to": "app:pdf-page-extractor",
+      "type": "guide_supports_app"
+    },
+    {
+      "from": "video:sunpath-new-ios-app",
+      "to": "app:sunpath",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:sunpath-new-ios-app",
+      "to": "guide:plan-golden-hour-photos-iphone",
+      "type": "video_related_to_guide"
+    },
+    {
+      "from": "video:export-iphone-contacts-to-csv-or-vcf-in-seconds",
+      "to": "app:export-contacts",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:add-a-visible-date-stamp-to-iphone-photos",
+      "to": "app:date-stamp-photos",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:still-sending-photos-one-by-one",
+      "to": "app:export-photos-zip-share",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:combine-multiple-photos-into-one-on-iphone",
+      "to": "app:combine-photos-side-by-side",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:switching-iphones-save-your-reminders-first",
+      "to": "app:export-reminders",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:tired-of-img-1234-photo-names-rename-iphone-photos-in-seconds",
+      "to": "app:rename-photos",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:tired-of-img-1234-photo-names-rename-iphone-photos-in-seconds",
+      "to": "guide:rename-iphone-photos-without-computer",
+      "type": "video_related_to_guide"
+    },
+    {
+      "from": "video:iphone-doesn-t-let-you-export-your-calendar-here-s-how",
+      "to": "app:export-calendar",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:iphone-doesn-t-let-you-export-your-calendar-here-s-how",
+      "to": "guide:export-iphone-calendar-csv-ics",
+      "type": "video_related_to_guide"
+    },
+    {
+      "from": "video:don-t-switch-iphone-before-doing-this-export-your-calendar",
+      "to": "app:export-calendar",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:don-t-switch-iphone-before-doing-this-export-your-calendar",
+      "to": "guide:export-iphone-calendar-csv-ics",
+      "type": "video_related_to_guide"
+    },
+    {
+      "from": "video:export-iphone-calendar-to-excel-in-seconds",
+      "to": "app:export-calendar",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:export-iphone-calendar-to-excel-in-seconds",
+      "to": "guide:export-iphone-calendar-csv-ics",
+      "type": "video_related_to_guide"
+    },
+    {
+      "from": "video:rename-iphone-photos-in-seconds-batch-rename-made-easy",
+      "to": "app:rename-photos",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:rename-iphone-photos-in-seconds-batch-rename-made-easy",
+      "to": "guide:rename-iphone-photos-without-computer",
+      "type": "video_related_to_guide"
+    },
+    {
+      "from": "video:rename-videos-walkthrough",
+      "to": "app:rename-videos",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:sunpath-light-planning-overview",
+      "to": "app:sunpath",
+      "type": "video_demonstrates_app"
+    },
+    {
+      "from": "video:sunpath-light-planning-overview",
+      "to": "guide:plan-golden-hour-photos-iphone",
+      "type": "video_related_to_guide"
+    },
+    {
+      "from": "organization:opsoh",
+      "to": "social:youtube",
+      "type": "same_as"
+    },
+    {
+      "from": "organization:opsoh",
+      "to": "social:linkedin",
+      "type": "same_as"
+    }
+  ]
+}

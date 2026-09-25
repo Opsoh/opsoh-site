@@ -1,0 +1,34 @@
+{
+  "version": "v27.48",
+  "purpose": "Hard source-of-truth lock for OpsOh App Store bundle URLs. Any future build must preserve these exact URLs for bundle App Store badges and bundle data.",
+  "source": "Bundle URLs.docx provided by user",
+  "bundles": [
+    {
+      "name": "Export Data Suite",
+      "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/export-data-suite/id1881653965",
+      "bundle_url": "https://apps.apple.com/us/app-bundle/export-data-suite/id1881653965"
+    },
+    {
+      "name": "Photo Organization Suite",
+      "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/photo-organization-suite/id1894850202",
+      "bundle_url": "https://apps.apple.com/us/app-bundle/photo-organization-suite/id1894850202"
+    },
+    {
+      "name": "Video Tools Suite",
+      "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/video-tools-suite/id1894852426",
+      "bundle_url": "https://apps.apple.com/us/app-bundle/video-tools-suite/id1894852426"
+    },
+    {
+      "name": "PDF Tools Suite",
+      "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/pdf-tools-suite/id1896848994",
+      "bundle_url": "https://apps.apple.com/us/app-bundle/pdf-tools-suite/id1896848994"
+    }
+  ],
+  "rules": [
+    "Bundle App Store badges must point to apps.apple.com/us/app-bundle URLs.",
+    "Bundle App Store badges must never point to individual app URLs.",
+    "Do not use older itunes.apple.com redirects in the website.",
+    "Do not infer missing bundle URLs; ask the user.",
+    "If any bundle badge URL is not one of these four locked URLs, the build is not publish-safe."
+  ]
+}

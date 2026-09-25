@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Export & Productivity",
+    "description": "Calendar, reminders, contacts, and data export tools."
+  },
+  {
+    "name": "Photos & Media",
+    "description": "Photo naming, combining, location data, compression, and media utilities."
+  },
+  {
+    "name": "Files & Storage",
+    "description": "Focused apps for finding, cleaning, and organizing storage-heavy files."
+  },
+  {
+    "name": "Documents & Privacy",
+    "description": "Tools for handling private information and document workflows."
+  },
+  {
+    "name": "Light & Planning",
+    "description": "Visual planning tools for sun, light, time, and outdoor moments."
+  },
+  {
+    "name": "Lifestyle Tools",
+    "description": "Focused lifestyle apps for estimates, logging, and everyday context."
+  },
+  {
+    "name": "Health Data",
+    "description": "Export selected Apple Health records as CSV or readable PDF summaries."
+  },
+  {
+    "name": "Games",
+    "description": "Word, logic, and casual arcade games from OpsOh."
+  }
+]

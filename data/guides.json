@@ -1,0 +1,1687 @@
+{
+  "guides": [
+    {
+      "slug": "apple-health-pdf-summary-trends",
+      "title": "How to Create a Readable PDF Summary from Apple Health Data",
+      "category": "Health Data & Review",
+      "intent": "Turn selected Apple Health records into a readable PDF summary with key metrics, monthly trends, date range, and data-coverage details using Export Health.",
+      "summary": "Raw Health records are useful for analysis, but sometimes you need a document you can read at a glance. A PDF summary can turn selected data into metrics and monthly trends without pretending to be a medical report.",
+      "url": "/blog/apple-health-pdf-summary-trends/",
+      "related_app": "Export Health",
+      "related_app_url": "/apps/export-health/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": null,
+      "questions": [
+        "What is included in an Export Health PDF Summary?",
+        "How many trend charts can appear?",
+        "Does the PDF contain every raw Health sample?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-08-16",
+      "faq": [
+        {
+          "q": "What is included in an Export Health PDF Summary?",
+          "a": "Depending on the selected categories and available data: key metric cards, monthly trends, selected date range, data coverage, included categories, and source-row count."
+        },
+        {
+          "q": "How many trend charts can appear?",
+          "a": "The finished PDF renders up to four monthly trend charts."
+        },
+        {
+          "q": "Does the PDF contain every raw Health sample?",
+          "a": "No. The PDF summarizes the selected records. Use CSV when you need individual rows."
+        },
+        {
+          "q": "Can I share the PDF?",
+          "a": "Yes. Once created on-device, you can use the standard iOS share workflow to save or share the file."
+        },
+        {
+          "q": "Is the PDF a medical interpretation?",
+          "a": "No. It is a readable summary of selected Health records and simple calculations, not medical advice or diagnosis."
+        }
+      ]
+    },
+    {
+      "slug": "export-apple-health-data-iphone",
+      "title": "How to Export Apple Health Data from iPhone",
+      "category": "Health Data & Export",
+      "intent": "Learn the main ways to export Apple Health data from iPhone, including Apple’s built-in full export and a focused CSV or PDF workflow for selected categories and dates.",
+      "summary": "There are two very different kinds of Health export on iPhone: Apple’s complete archive and a focused export of selected categories and dates.",
+      "url": "/blog/export-apple-health-data-iphone/",
+      "related_app": "Export Health",
+      "related_app_url": "/apps/export-health/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": null,
+      "questions": [
+        "Can I export only part of my Apple Health data?",
+        "What Health categories does Export Health support?",
+        "Can I export Health data as a PDF?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-08-16",
+      "faq": [
+        {
+          "q": "Can I export only part of my Apple Health data?",
+          "a": "With Export Health, you can select supported categories and a date range rather than exporting an all-or-nothing archive."
+        },
+        {
+          "q": "What Health categories does Export Health support?",
+          "a": "Steps, Active Energy, Walking + Running Distance, Sleep Analysis, Flights Climbed, Heart Rate, Resting Heart Rate, and Body Weight."
+        },
+        {
+          "q": "Can I export Health data as a PDF?",
+          "a": "Export Health can create a PDF Summary from selected supported categories and dates."
+        },
+        {
+          "q": "Why might older data be missing?",
+          "a": "The app can only export records Apple Health makes available on the device. Older data that was not restored, synced, or stored there may not be returned."
+        },
+        {
+          "q": "Does the PDF diagnose health conditions?",
+          "a": "No. It is a data summary, not medical advice, diagnosis, treatment, or a health recommendation."
+        }
+      ]
+    },
+    {
+      "slug": "export-apple-health-data-csv",
+      "title": "How to Export Apple Health Data to CSV on iPhone",
+      "category": "Health Data & Export",
+      "intent": "Learn how to export selected Apple Health records to a CSV file on iPhone, what the file contains, and how to use it in Numbers, Excel, or other spreadsheet tools.",
+      "summary": "CSV is useful when you want selected Apple Health records in a structured, spreadsheet-friendly format instead of a large all-or-nothing archive.",
+      "url": "/blog/export-apple-health-data-csv/",
+      "related_app": "Export Health",
+      "related_app_url": "/apps/export-health/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": null,
+      "questions": [
+        "Can Apple Health data be exported to CSV?",
+        "What columns are in the Export Health CSV?",
+        "Does Export Health upload my Health data?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-08-16",
+      "faq": [
+        {
+          "q": "Can Apple Health data be exported to CSV?",
+          "a": "Apple Health does not provide a simple built-in CSV export for selected categories. A focused app such as Export Health can create a CSV from Health records that Apple makes available to the app on the device."
+        },
+        {
+          "q": "What columns are in the Export Health CSV?",
+          "a": "Category, Start Date, End Date, Value, and Unit."
+        },
+        {
+          "q": "Does Export Health upload my Health data?",
+          "a": "No. The app reads authorized Health data and creates the export on-device. OpsOh does not collect the Health data."
+        },
+        {
+          "q": "Can I open the CSV in Excel or Numbers?",
+          "a": "Yes. CSV is a standard tabular format and can be opened by spreadsheet apps including Excel and Numbers."
+        },
+        {
+          "q": "Is the export medical advice?",
+          "a": "No. Export Health organizes and summarizes Health records; it does not provide diagnosis, treatment, recommendations, or medical advice."
+        }
+      ]
+    },
+    {
+      "slug": "export-iphone-calendar-csv-ics",
+      "title": "How to Export iPhone Calendar Events to CSV",
+      "category": "Export & Productivity",
+      "intent": "Learn how to save iPhone calendar events as CSV or ICS files so they can be used in spreadsheets, records, backups, and planning workflows.",
+      "summary": "Learn how to save iPhone calendar events as CSV or ICS files so they can be used in spreadsheets, records, backups, and planning workflows.",
+      "url": "/blog/export-iphone-calendar-csv-ics/",
+      "related_app": "Export Calendar",
+      "related_app_url": "/apps/export-calendar/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "How do I export iPhone calendar events?",
+        "Can I save calendar events for Excel?",
+        "How can I back up calendar events?"
+      ],
+      "status": "published",
+      "content_status": "review_before_publish"
+    },
+    {
+      "slug": "export-iphone-contacts-csv-vcf",
+      "title": "How to Export iPhone Contacts to CSV or VCF",
+      "category": "Export & Productivity",
+      "intent": "Exporting contacts can be useful when you need a backup, a spreadsheet-friendly contact list, or a file you can move outside your phone.",
+      "summary": "Exporting contacts can be useful when you need a backup, a spreadsheet-friendly contact list, or a file you can move outside your phone.",
+      "url": "/blog/export-iphone-contacts-csv-vcf/",
+      "related_app": "Export Contacts",
+      "related_app_url": "/apps/export-contacts/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Should I export contacts as CSV or VCF?",
+        "Can I use a contacts export as a backup?",
+        "Will CSV keep every contact detail perfectly?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Should I export contacts as CSV or VCF?",
+          "a": "Use CSV when you want to open contacts in a spreadsheet. Use VCF when you want a contact-native file for importing into another address book or contacts app."
+        },
+        {
+          "q": "Can I use a contacts export as a backup?",
+          "a": "Yes. A contacts export can work as a practical backup, especially if you save the file somewhere safe and clearly dated."
+        },
+        {
+          "q": "Will CSV keep every contact detail perfectly?",
+          "a": "CSV is useful for spreadsheet review, but contact fields can vary. If preserving contact structure for importing is the priority, VCF is usually the better format."
+        },
+        {
+          "q": "Do I need a computer to export iPhone contacts?",
+          "a": "Not necessarily. A focused iOS app can help export contacts directly from the phone, depending on the workflow and format you need."
+        },
+        {
+          "q": "Why use a focused app for this?",
+          "a": "A focused app keeps the task simple: export contacts, choose the format, save the file, and move on without extra account or contact-management complexity."
+        }
+      ]
+    },
+    {
+      "slug": "export-iphone-reminders",
+      "title": "How to Export iPhone Reminders",
+      "category": "Export & Productivity",
+      "intent": "Exporting reminders can help you save task lists, review planning history, keep backups, or move reminders into another workflow.",
+      "summary": "Exporting reminders can help you save task lists, review planning history, keep backups, or move reminders into another workflow.",
+      "url": "/blog/export-iphone-reminders/",
+      "related_app": "Export Reminders",
+      "related_app_url": "/apps/export-reminders/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Why would I export iPhone reminders?",
+        "Can an export help with completed reminders?",
+        "Is this the same as syncing reminders?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Why would I export iPhone reminders?",
+          "a": "You might export reminders for backups, planning records, project review, task history, or to use reminder data in another workflow."
+        },
+        {
+          "q": "Can an export help with completed reminders?",
+          "a": "Yes. Exporting completed reminders can be useful when you need a record of what was done, especially for projects or recurring routines."
+        },
+        {
+          "q": "Is this the same as syncing reminders?",
+          "a": "No. Syncing keeps reminders available across devices. Exporting creates a file you can save, share, or archive."
+        },
+        {
+          "q": "Do exported reminders replace the Reminders app?",
+          "a": "No. Exporting is a companion workflow. You can keep using Reminders while saving selected information as a separate file."
+        },
+        {
+          "q": "What app supports this workflow?",
+          "a": "Export Reminders is designed for this kind of focused iOS reminders export workflow."
+        }
+      ]
+    },
+    {
+      "slug": "rename-iphone-photos-without-computer",
+      "title": "How to Rename iPhone Photos Without a Computer",
+      "category": "Photos & Media",
+      "intent": "Learn how to rename iPhone photo files without a computer, using Files for one image or a batch-renaming workflow for multiple photos.",
+      "summary": "Rename one exported iPhone photo in Files, or batch rename multiple photos with clearer custom names and numbering — no computer required.",
+      "url": "/blog/rename-iphone-photos-without-computer/",
+      "related_app": "Rename Photos",
+      "related_app_url": "/apps/rename-photos/",
+      "related_bundle": "Photo Organization Suite",
+      "related_bundle_url": "/bundles/photo-organization-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I rename photos on iPhone?",
+        "How do I rename one photo in Files?",
+        "How can I batch rename multiple photos?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-09-11",
+      "faq": [
+        {
+          "q": "Can I rename photos directly on iPhone?",
+          "a": "Yes. The Photos app does not directly rename the underlying file, but you can save one image to Files and rename the exported copy there, or use a batch-renaming workflow for multiple photos."
+        },
+        {
+          "q": "How do I rename one iPhone photo without an app?",
+          "a": "Save the photo to Files, open Files, press and hold the image, choose Rename, and enter the new filename."
+        },
+        {
+          "q": "Can I batch rename multiple iPhone photos?",
+          "a": "Yes. A batch workflow is faster when several photos need consistent custom names and numbering."
+        },
+        {
+          "q": "Why should I rename iPhone photos?",
+          "a": "Clear filenames help with work, receipts, projects, records, uploads, and sharing."
+        },
+        {
+          "q": "Which OpsOh app supports batch photo renaming?",
+          "a": "Rename Photos supports selecting multiple photos, applying custom names and numbering, previewing the result, and saving renamed photos."
+        }
+      ]
+    },
+    {
+      "slug": "add-date-stamp-iphone-photos",
+      "title": "How to Add a Date Stamp to iPhone Photos",
+      "category": "Photos & Media",
+      "intent": "Adding a visible date stamp to iPhone photos can make images easier to use for records, travel, documentation, memories, and proof of timing.",
+      "summary": "Adding a visible date stamp to iPhone photos can make images easier to use for records, travel, documentation, memories, and proof of timing.",
+      "url": "/blog/add-date-stamp-iphone-photos/",
+      "related_app": "Date Stamp Photos",
+      "related_app_url": "/apps/date-stamp-photos/",
+      "related_bundle": "Photo Organization Suite",
+      "related_bundle_url": "/bundles/photo-organization-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I add a visible date stamp to iPhone photos?",
+        "Is a date stamp the same as photo metadata?",
+        "When should I use a visible date stamp?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I add a visible date stamp to iPhone photos?",
+          "a": "Yes. A focused iOS app can add a visible date stamp directly to a photo."
+        },
+        {
+          "q": "Is a date stamp the same as photo metadata?",
+          "a": "No. Metadata is hidden file information. A visible date stamp appears directly on the image."
+        },
+        {
+          "q": "When should I use a visible date stamp?",
+          "a": "Use it when the date is important for records, travel, documentation, proof, or memory context."
+        },
+        {
+          "q": "Should I keep the original photo?",
+          "a": "Yes, it is often a good idea to keep an unstamped original copy before saving a stamped version."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Date Stamp Photos supports adding visible date stamps to iPhone photos."
+        }
+      ]
+    },
+    {
+      "slug": "combine-photos-iphone",
+      "title": "How to Combine Photos on iPhone",
+      "category": "Photos & Media",
+      "intent": "Combining photos on iPhone helps create one image for comparison, sharing, documentation, layouts, before-and-after views, and visual records.",
+      "summary": "Combining photos on iPhone helps create one image for comparison, sharing, documentation, layouts, before-and-after views, and visual records.",
+      "url": "/blog/combine-photos-iphone/",
+      "related_app": "Combine Photos Side by Side",
+      "related_app_url": "/apps/combine-photos-side-by-side/",
+      "related_bundle": "Photo Organization Suite",
+      "related_bundle_url": "/bundles/photo-organization-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I combine photos on iPhone?",
+        "What is the best layout for comparisons?",
+        "Why combine photos instead of sending them separately?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I combine photos on iPhone?",
+          "a": "Yes. A focused iOS workflow can combine multiple photos into one image."
+        },
+        {
+          "q": "What is the best layout for comparisons?",
+          "a": "Side-by-side is usually best when comparing two photos. Stacked layouts can work better for sequences."
+        },
+        {
+          "q": "Why combine photos instead of sending them separately?",
+          "a": "One combined image is easier to share, save, and understand as a single visual."
+        },
+        {
+          "q": "Can combined photos help with records?",
+          "a": "Yes. Combined photos can be useful for before-and-after records, project documentation, and comparisons."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Combine Photos Side by Side supports combining iPhone photos into one image."
+        }
+      ]
+    },
+    {
+      "slug": "find-large-files-on-iphone",
+      "title": "How to Find Large Files on iPhone",
+      "category": "Files & Storage",
+      "intent": "Finding large files on iPhone can help you understand what is using storage and decide what to delete, move, or keep.",
+      "summary": "Finding large files on iPhone can help you understand what is using storage and decide what to delete, move, or keep.",
+      "url": "/blog/find-large-files-on-iphone/",
+      "related_app": "File Cleaner",
+      "related_app_url": "/apps/file-cleaner/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": "/videos",
+      "questions": [
+        "What usually takes up storage on iPhone?",
+        "Is deleting large files better than deleting many small files?",
+        "Should I back up files before deleting them?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "What usually takes up storage on iPhone?",
+          "a": "Large videos, downloads, PDFs, screen recordings, ZIP files, and exported files can take up significant storage."
+        },
+        {
+          "q": "Is deleting large files better than deleting many small files?",
+          "a": "Often, yes. A few large files can free more space than many small ones."
+        },
+        {
+          "q": "Should I back up files before deleting them?",
+          "a": "Yes, if there is any chance you may need them later."
+        },
+        {
+          "q": "Can storage cleanup help iPhone performance?",
+          "a": "Freeing storage can help avoid storage warnings and make it easier to save new photos, apps, and files."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "File Cleaner supports finding large files and cleaning storage on iPhone."
+        }
+      ]
+    },
+    {
+      "slug": "delete-downloaded-files-iphone",
+      "title": "How to Delete Downloaded Files on iPhone",
+      "category": "Files & Storage",
+      "intent": "Deleting downloaded files on iPhone can free storage and remove old PDFs, videos, ZIP files, documents, and temporary files you no longer need.",
+      "summary": "Deleting downloaded files on iPhone can free storage and remove old PDFs, videos, ZIP files, documents, and temporary files you no longer need.",
+      "url": "/blog/delete-downloaded-files-iphone/",
+      "related_app": "File Cleaner",
+      "related_app_url": "/apps/file-cleaner/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": "/videos",
+      "questions": [
+        "Where are downloaded files on iPhone?",
+        "What downloads should I delete first?",
+        "Can deleting downloads free storage?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Where are downloaded files on iPhone?",
+          "a": "Downloaded files may be in the Files app, app folders, cloud storage folders, email attachments, or saved exports from other apps."
+        },
+        {
+          "q": "What downloads should I delete first?",
+          "a": "Start with large files you no longer need, such as videos, PDFs, ZIP files, and duplicate documents."
+        },
+        {
+          "q": "Can deleting downloads free storage?",
+          "a": "Yes. Downloads can take up significant storage, especially videos, archives, and large documents."
+        },
+        {
+          "q": "Should I delete files I do not recognize?",
+          "a": "Be careful. Open or back up a file first if you are unsure what it is."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "File Cleaner supports focused iPhone file cleanup workflows."
+        }
+      ]
+    },
+    {
+      "slug": "clean-up-iphone-files-free-storage",
+      "title": "How to Clean Up iPhone Files and Free Up Storage",
+      "category": "Files & Storage",
+      "intent": "Cleaning up iPhone files can free storage by finding downloads, large documents, old exports, ZIP files, PDFs, and other files you no longer need.",
+      "summary": "Cleaning up iPhone files can free storage by finding downloads, large documents, old exports, ZIP files, PDFs, and other files you no longer need.",
+      "url": "/blog/clean-up-iphone-files-free-storage/",
+      "related_app": "File Cleaner",
+      "related_app_url": "/apps/file-cleaner/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": "/videos",
+      "questions": [
+        "What should I delete first to free iPhone storage?",
+        "Is file cleanup safer than deleting random apps?",
+        "Should I back up files before deleting them?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "What should I delete first to free iPhone storage?",
+          "a": "Start with large files you recognize and no longer need, such as videos, PDFs, ZIP archives, downloads, and old exports."
+        },
+        {
+          "q": "Is file cleanup safer than deleting random apps?",
+          "a": "It can be. Reviewing files gives you more control and helps avoid deleting apps or data you still use."
+        },
+        {
+          "q": "Should I back up files before deleting them?",
+          "a": "Yes, if a file may matter later. Move important files to a safe location before deleting them."
+        },
+        {
+          "q": "Can downloads take up a lot of storage?",
+          "a": "Yes. Downloads, attachments, exported files, and archives can accumulate over time."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "File Cleaner supports finding large files and cleaning iPhone storage."
+        }
+      ]
+    },
+    {
+      "slug": "rename-iphone-videos",
+      "title": "How to Rename iPhone Videos",
+      "category": "Video Tools",
+      "intent": "Renaming iPhone videos can make clips easier to identify, organize, share, archive, and use in projects without relying only on thumbnails.",
+      "summary": "Renaming iPhone videos can make clips easier to identify, organize, share, archive, and use in projects without relying only on thumbnails.",
+      "url": "/blog/rename-iphone-videos/",
+      "related_app": "Rename Videos",
+      "related_app_url": "/apps/rename-videos/",
+      "related_bundle": "Video tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I rename videos on iPhone?",
+        "Why rename iPhone videos?",
+        "What should a video filename include?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I rename videos on iPhone?",
+          "a": "Yes. A focused iOS workflow can help rename videos directly on iPhone."
+        },
+        {
+          "q": "Why rename iPhone videos?",
+          "a": "Renaming makes videos easier to identify, organize, share, and archive."
+        },
+        {
+          "q": "What should a video filename include?",
+          "a": "Useful context such as project, date, location, subject, or version can help."
+        },
+        {
+          "q": "Should I rename before sharing?",
+          "a": "Yes. Renaming before sharing makes the file clearer for the person receiving it."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Rename Videos supports focused iPhone video renaming workflows."
+        }
+      ]
+    },
+    {
+      "slug": "compress-video-iphone",
+      "title": "How to Compress Video on iPhone",
+      "category": "Video Tools",
+      "intent": "Compressing video on iPhone helps reduce file size so clips are easier to send, upload, save, and share without keeping every file at maximum size.",
+      "summary": "Compressing video on iPhone helps reduce file size so clips are easier to send, upload, save, and share without keeping every file at maximum size.",
+      "url": "/blog/compress-video-iphone/",
+      "related_app": "Shrink Video Size",
+      "related_app_url": "/apps/shrink-video-size/",
+      "related_bundle": "Video tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I compress video on iPhone?",
+        "Will compression reduce quality?",
+        "When should I compress a video?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I compress video on iPhone?",
+          "a": "Yes. A focused iOS workflow can create a smaller version of an iPhone video."
+        },
+        {
+          "q": "Will compression reduce quality?",
+          "a": "Usually, yes. Compression reduces file size by making tradeoffs, so keep the original if quality matters."
+        },
+        {
+          "q": "When should I compress a video?",
+          "a": "Compress when you need easier sharing, uploading, storage, or email/message delivery."
+        },
+        {
+          "q": "Should I delete the original video?",
+          "a": "Only delete the original if you are sure you do not need the highest-quality version later."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Shrink Video Size supports compressing videos on iPhone."
+        }
+      ]
+    },
+    {
+      "slug": "convert-video-to-gif-iphone",
+      "title": "How to Convert Video to GIF on iPhone",
+      "category": "Video Tools",
+      "intent": "Converting a video to GIF on iPhone makes a short clip easier to loop, share, post, save, or use as a lightweight visual without sending the full video.",
+      "summary": "Converting a video to GIF on iPhone makes a short clip easier to loop, share, post, save, or use as a lightweight visual without sending the full video.",
+      "url": "/blog/convert-video-to-gif-iphone/",
+      "related_app": "Video to GIF – No Watermark",
+      "related_app_url": "/apps/video-to-gif-no-watermark/",
+      "related_bundle": "Video tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I convert video to GIF on iPhone?",
+        "When should I use GIF instead of video?",
+        "Can GIF files get large?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I convert video to GIF on iPhone?",
+          "a": "Yes. A focused iOS workflow can turn a video clip into a GIF directly on iPhone."
+        },
+        {
+          "q": "When should I use GIF instead of video?",
+          "a": "Use GIF for short looping visuals that do not need audio or high-end playback controls."
+        },
+        {
+          "q": "Can GIF files get large?",
+          "a": "Yes. Long or high-resolution GIFs can become large, so short clips usually work best."
+        },
+        {
+          "q": "Should I trim the video first?",
+          "a": "Yes. Trimming to the important moment usually creates a better, smaller GIF."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Video to GIF – No Watermark supports converting iPhone videos to GIFs."
+        }
+      ]
+    },
+    {
+      "slug": "save-audio-from-video-iphone",
+      "title": "How to Save Audio from a Video on iPhone",
+      "category": "Video Tools",
+      "intent": "Saving audio from an iPhone video helps turn a recording into a separate audio file for notes, voice clips, sound references, interviews, or creative reuse.",
+      "summary": "Saving audio from an iPhone video helps turn a recording into a separate audio file for notes, voice clips, sound references, interviews, or creative reuse.",
+      "url": "/blog/save-audio-from-video-iphone/",
+      "related_app": "Save Audio from Video",
+      "related_app_url": "/apps/save-audio-from-video/",
+      "related_bundle": "Video tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I save only the audio from an iPhone video?",
+        "Why save audio separately from video?",
+        "What kinds of videos are useful for audio extraction?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I save only the audio from an iPhone video?",
+          "a": "Yes. A focused iOS workflow can extract the audio from a video and save it as a separate audio file."
+        },
+        {
+          "q": "Why save audio separately from video?",
+          "a": "A separate audio file is easier to listen to, share, archive, and use when the visual part of the video is not needed."
+        },
+        {
+          "q": "What kinds of videos are useful for audio extraction?",
+          "a": "Voice notes, lectures, interviews, sound references, meeting clips, music ideas, and ambient recordings can all be useful."
+        },
+        {
+          "q": "Should I check permissions before extracting audio?",
+          "a": "Yes. Only extract or reuse audio you own or have permission to use."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Save Audio from Video supports extracting audio from video clips on iPhone."
+        }
+      ]
+    },
+    {
+      "slug": "make-pdf-iphone",
+      "title": "How to Make a PDF on iPhone",
+      "category": "PDF Tools",
+      "intent": "Making a PDF on iPhone helps turn photos, scans, or image-based records into a document that is easier to send, save, upload, or archive.",
+      "summary": "Making a PDF on iPhone helps turn photos, scans, or image-based records into a document that is easier to send, save, upload, or archive.",
+      "url": "/blog/make-pdf-iphone/",
+      "related_app": "PhotoPDF Maker",
+      "related_app_url": "/apps/photopdf-maker/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I make a PDF on iPhone?",
+        "Why use PDF instead of photos?",
+        "What can I turn into a PDF?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I make a PDF on iPhone?",
+          "a": "Yes. A focused iOS workflow can turn photos or images into a PDF document."
+        },
+        {
+          "q": "Why use PDF instead of photos?",
+          "a": "PDFs keep pages together and are easier to send, upload, archive, and treat like documents."
+        },
+        {
+          "q": "What can I turn into a PDF?",
+          "a": "Receipts, forms, screenshots, notes, scans, travel documents, school papers, and photo records can work well."
+        },
+        {
+          "q": "Should I check the PDF before sending?",
+          "a": "Yes. Open it once to confirm the pages are readable and in the right order."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "PhotoPDF Maker supports creating PDFs from photos on iPhone."
+        }
+      ]
+    },
+    {
+      "slug": "shrink-pdf-email-iphone",
+      "title": "How to Shrink a PDF Before Emailing",
+      "category": "PDF Tools",
+      "intent": "Shrinking a PDF before emailing helps reduce file size so documents are easier to attach, send, upload, and share from iPhone.",
+      "summary": "Shrinking a PDF before emailing helps reduce file size so documents are easier to attach, send, upload, and share from iPhone.",
+      "url": "/blog/shrink-pdf-email-iphone/",
+      "related_app": "Shrink PDF Email",
+      "related_app_url": "/apps/shrink-pdf-email/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I shrink a PDF before emailing from iPhone?",
+        "Will shrinking a PDF reduce quality?",
+        "Why is my PDF too large to email?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I shrink a PDF before emailing from iPhone?",
+          "a": "Yes. A focused iOS workflow can reduce PDF file size before sending."
+        },
+        {
+          "q": "Will shrinking a PDF reduce quality?",
+          "a": "It can. Compression balances file size and readability, so review the result before sharing."
+        },
+        {
+          "q": "Why is my PDF too large to email?",
+          "a": "Scans, photos, high-resolution images, and many pages can make PDFs large."
+        },
+        {
+          "q": "Should I keep the original PDF?",
+          "a": "Yes, if the document is important or you may need a higher-quality copy later."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Shrink PDF Email supports compressing PDFs for easier sharing and emailing."
+        }
+      ]
+    },
+    {
+      "slug": "rotate-pdf-iphone",
+      "title": "How to Rotate a PDF on iPhone",
+      "category": "PDF Tools",
+      "intent": "Rotating a PDF on iPhone helps fix sideways or upside-down pages before saving, sending, printing, uploading, or archiving a document.",
+      "summary": "Rotating a PDF on iPhone helps fix sideways or upside-down pages before saving, sending, printing, uploading, or archiving a document.",
+      "url": "/blog/rotate-pdf-iphone/",
+      "related_app": "PDF Rotate",
+      "related_app_url": "/apps/pdf-rotate/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I rotate PDF pages on iPhone?",
+        "Why are some PDF pages sideways?",
+        "Should I rotate every page?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I rotate PDF pages on iPhone?",
+          "a": "Yes. A focused iOS PDF workflow can rotate pages and save a corrected copy."
+        },
+        {
+          "q": "Why are some PDF pages sideways?",
+          "a": "Scans, camera captures, downloads, or document conversions can sometimes create incorrect page orientation."
+        },
+        {
+          "q": "Should I rotate every page?",
+          "a": "Only rotate pages that need correction. Review the full document before saving."
+        },
+        {
+          "q": "Can rotating a PDF help before uploading?",
+          "a": "Yes. Correct orientation makes documents easier to read and more professional to submit."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "PDF Rotate supports rotating PDF pages on iPhone."
+        }
+      ]
+    },
+    {
+      "slug": "extract-pages-from-pdf-iphone",
+      "title": "How to Extract Pages from a PDF on iPhone",
+      "category": "PDF Tools",
+      "intent": "Extracting pages from a PDF on iPhone helps create a smaller document that contains only the pages you need to save, send, upload, or share.",
+      "summary": "Extracting pages from a PDF on iPhone helps create a smaller document that contains only the pages you need to save, send, upload, or share.",
+      "url": "/blog/extract-pages-from-pdf-iphone/",
+      "related_app": "PDF Page Extractor",
+      "related_app_url": "/apps/pdf-page-extractor/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I extract pages from a PDF on iPhone?",
+        "Why extract pages instead of sending the full PDF?",
+        "Should I keep the original PDF?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I extract pages from a PDF on iPhone?",
+          "a": "Yes. A focused iOS workflow can save selected PDF pages as a smaller document."
+        },
+        {
+          "q": "Why extract pages instead of sending the full PDF?",
+          "a": "Extraction lets you share only what matters and avoid sending irrelevant or private pages."
+        },
+        {
+          "q": "Should I keep the original PDF?",
+          "a": "Yes, especially if the document is important. Save the extracted version as a new file."
+        },
+        {
+          "q": "Can page extraction reduce file size?",
+          "a": "Yes. A smaller PDF with fewer pages is often easier to send and upload."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "PDF Page Extractor supports extracting selected pages from PDFs on iPhone."
+        }
+      ]
+    },
+    {
+      "slug": "plan-golden-hour-photos-iphone",
+      "title": "How to Plan Golden Hour Photos on iPhone",
+      "category": "Photos & Media",
+      "intent": "Plan better outdoor photos with golden hour timing, sunrise, sunset, sun direction, and light context using SunPath.",
+      "summary": "Plan better outdoor photos with golden hour timing, sunrise, sunset, sun direction, and light context using SunPath.",
+      "url": "/blog/plan-golden-hour-photos-iphone/",
+      "related_app": "SunPath",
+      "related_app_url": "/apps/sunpath/",
+      "related_bundle": "Photo Organization Suite",
+      "related_bundle_url": "/bundles/photo-organization-suite/",
+      "related_video_url": "/videos#sunpath-new-ios-app",
+      "questions": [
+        "When is golden hour for photos?",
+        "How do I plan sunset photos on iPhone?",
+        "What app helps plan outdoor light?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "app_store_url": "https://apps.apple.com/us/app/sunpath/id6776793803"
+    },
+    {
+      "slug": "backup-iphone-calendar",
+      "title": "Backup iPhone Calendar",
+      "category": "Export & Productivity",
+      "intent": "A calendar backup can help preserve important events before switching devices, changing accounts, reorganizing calendars, or cleaning up old data.",
+      "summary": "A calendar backup can help preserve important events before switching devices, changing accounts, reorganizing calendars, or cleaning up old data.",
+      "url": "/blog/backup-iphone-calendar/",
+      "related_app": "Export Calendar",
+      "related_app_url": "/apps/export-calendar/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I back up my iPhone calendar as a file?",
+        "Is CSV or ICS better for calendar backup?",
+        "Should I back up before deleting old events?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I back up my iPhone calendar as a file?",
+          "a": "Yes. Exporting calendar events to CSV or ICS creates a file-based copy you can save for backup, records, or later review."
+        },
+        {
+          "q": "Is CSV or ICS better for calendar backup?",
+          "a": "CSV is better for spreadsheet review. ICS is better if you want to preserve events in a calendar-native format for importing."
+        },
+        {
+          "q": "Should I back up before deleting old events?",
+          "a": "Yes. If old events may matter later, export them before deleting or reorganizing your calendar."
+        },
+        {
+          "q": "Can a calendar backup help when switching phones?",
+          "a": "Yes. A file export gives you a separate copy of calendar information before device or account changes."
+        },
+        {
+          "q": "What app supports this workflow?",
+          "a": "Export Calendar is designed for exporting iPhone calendar events to CSV or ICS for backup and records."
+        }
+      ]
+    },
+    {
+      "slug": "backup-iphone-contacts-before-switching-phones",
+      "title": "Backup iPhone Contacts Before Switching Phones",
+      "category": "Export & Productivity",
+      "intent": "Before switching phones, exporting contacts gives you a separate file-based backup in case syncing, account settings, or imports do not go as expected.",
+      "summary": "Before switching phones, exporting contacts gives you a separate file-based backup in case syncing, account settings, or imports do not go as expected.",
+      "url": "/blog/backup-iphone-contacts-before-switching-phones/",
+      "related_app": "Export Contacts",
+      "related_app_url": "/apps/export-contacts/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Should I export contacts before switching phones?",
+        "Which format is best before switching phones?",
+        "Does exporting contacts replace iCloud sync?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Should I export contacts before switching phones?",
+          "a": "Yes. It is a practical safety step because it gives you a separate copy of your contacts before sync or transfer changes happen."
+        },
+        {
+          "q": "Which format is best before switching phones?",
+          "a": "VCF is usually best for importing contacts. CSV is useful for reviewing the contact list in a spreadsheet."
+        },
+        {
+          "q": "Does exporting contacts replace iCloud sync?",
+          "a": "No. Exporting is a backup step. Syncing keeps contacts connected across devices, while exporting creates a file you control."
+        },
+        {
+          "q": "Where should I save the contact backup?",
+          "a": "Save it somewhere accessible after the phone switch, such as cloud storage, a secure folder, or another device."
+        },
+        {
+          "q": "What app supports this workflow?",
+          "a": "Export Contacts supports saving iPhone contacts as CSV or VCF files."
+        }
+      ]
+    },
+    {
+      "slug": "clean-up-iphone-files-storage",
+      "title": "How to Clean Up iPhone Files and Storage",
+      "category": "Files & Storage",
+      "intent": "Cleaning up iPhone files and storage means reviewing what is actually saved on the device, then removing or moving files that no longer belong there.",
+      "summary": "Cleaning up iPhone files and storage means reviewing what is actually saved on the device, then removing or moving files that no longer belong there.",
+      "url": "/blog/clean-up-iphone-files-storage/",
+      "related_app": "File Cleaner",
+      "related_app_url": "/apps/file-cleaner/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": "/videos",
+      "questions": [
+        "How do I start cleaning iPhone storage?",
+        "Can file clutter build up outside the Photos app?",
+        "Should I move files instead of deleting them?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "How do I start cleaning iPhone storage?",
+          "a": "Start with large and old files such as downloads, videos, PDFs, archives, and exported documents."
+        },
+        {
+          "q": "Can file clutter build up outside the Photos app?",
+          "a": "Yes. Files saved from Safari, Mail, Messages, cloud storage, and other apps can take storage."
+        },
+        {
+          "q": "Should I move files instead of deleting them?",
+          "a": "Move files if they are important but do not need to stay on your iPhone."
+        },
+        {
+          "q": "How often should I clean up files?",
+          "a": "It depends on your usage, but reviewing downloads and large files every few weeks can help."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "File Cleaner supports focused iPhone file cleanup workflows."
+        }
+      ]
+    },
+    {
+      "slug": "delete-downloaded-files-on-iphone",
+      "title": "How to Delete Downloaded Files on iPhone",
+      "category": "Files & Storage",
+      "intent": "Deleting downloaded files on iPhone can free storage by removing old PDFs, videos, ZIP files, documents, and temporary files you no longer need.",
+      "summary": "Deleting downloaded files on iPhone can free storage by removing old PDFs, videos, ZIP files, documents, and temporary files you no longer need.",
+      "url": "/blog/delete-downloaded-files-on-iphone/",
+      "related_app": "File Cleaner",
+      "related_app_url": "/apps/file-cleaner/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "related_video_url": "/videos",
+      "questions": [
+        "Can downloaded files take up iPhone storage?",
+        "Should I delete every downloaded file?",
+        "Where do downloads usually come from?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can downloaded files take up iPhone storage?",
+          "a": "Yes. Downloads such as PDFs, videos, ZIP archives, and documents can take significant storage."
+        },
+        {
+          "q": "Should I delete every downloaded file?",
+          "a": "No. Delete only files you recognize and no longer need, or move important files somewhere safe first."
+        },
+        {
+          "q": "Where do downloads usually come from?",
+          "a": "They can come from Safari, Mail, Messages, cloud storage apps, shared links, and exports from other apps."
+        },
+        {
+          "q": "Can deleting downloads free space quickly?",
+          "a": "Often yes, especially when downloads include large videos, archives, or documents."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "File Cleaner supports focused iPhone file cleanup workflows."
+        }
+      ]
+    },
+    {
+      "slug": "export-iphone-calendar-to-excel",
+      "title": "Export iPhone Calendar to Excel",
+      "category": "Export & Productivity",
+      "intent": "If you need calendar events in Excel, exporting iPhone calendar data to CSV is usually the simplest spreadsheet-friendly path.",
+      "summary": "If you need calendar events in Excel, exporting iPhone calendar data to CSV is usually the simplest spreadsheet-friendly path.",
+      "url": "/blog/export-iphone-calendar-to-excel/",
+      "related_app": "Export Calendar",
+      "related_app_url": "/apps/export-calendar/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can Excel open iPhone calendar events?",
+        "Should I use CSV or ICS for Excel?",
+        "What can I do with calendar data in Excel?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can Excel open iPhone calendar events?",
+          "a": "Excel can open calendar events when they are exported to a spreadsheet-friendly format such as CSV."
+        },
+        {
+          "q": "Should I use CSV or ICS for Excel?",
+          "a": "Use CSV for Excel. ICS is better for calendar apps, while CSV is better for spreadsheets."
+        },
+        {
+          "q": "What can I do with calendar data in Excel?",
+          "a": "You can sort events, filter by date or title, search records, organize project timelines, and keep a readable archive."
+        },
+        {
+          "q": "Do I need to edit the CSV after opening it?",
+          "a": "Sometimes you may adjust column widths, date formatting, or filters. Keep the original export unchanged as a backup."
+        },
+        {
+          "q": "What app supports this workflow?",
+          "a": "Export Calendar supports exporting iPhone calendar events to CSV for spreadsheet use."
+        }
+      ]
+    },
+    {
+      "slug": "export-iphone-calendar-without-icloud",
+      "title": "Export iPhone Calendar Without iCloud",
+      "category": "Export & Productivity",
+      "intent": "You can keep a file-based copy of iPhone calendar events without relying only on iCloud sync by exporting the calendar data you need.",
+      "summary": "You can keep a file-based copy of iPhone calendar events without relying only on iCloud sync by exporting the calendar data you need.",
+      "url": "/blog/export-iphone-calendar-without-icloud/",
+      "related_app": "Export Calendar",
+      "related_app_url": "/apps/export-calendar/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Is exporting the same as iCloud sync?",
+        "Can I export iPhone calendar events without using iCloud as my only backup?",
+        "Should I use CSV or ICS?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Is exporting the same as iCloud sync?",
+          "a": "No. Sync keeps calendar data connected across devices. Exporting creates a standalone file you can save, move, or archive."
+        },
+        {
+          "q": "Can I export iPhone calendar events without using iCloud as my only backup?",
+          "a": "Yes. A file export gives you a separate copy of calendar events that is not just dependent on sync."
+        },
+        {
+          "q": "Should I use CSV or ICS?",
+          "a": "Use CSV for spreadsheets and review. Use ICS when you want a calendar-native file that can be imported into calendar apps."
+        },
+        {
+          "q": "Why would I keep a separate calendar export?",
+          "a": "A separate export can help with records, backups, account changes, device switches, or old calendar cleanup."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Export Calendar supports exporting iPhone calendar events to CSV or ICS for file-based workflows."
+        }
+      ]
+    },
+    {
+      "slug": "export-iphone-contacts-to-excel",
+      "title": "Export iPhone Contacts to Excel",
+      "category": "Export & Productivity",
+      "intent": "To use iPhone contacts in Excel, export them to CSV so names, phone numbers, emails, and other fields can be reviewed in a spreadsheet.",
+      "summary": "To use iPhone contacts in Excel, export them to CSV so names, phone numbers, emails, and other fields can be reviewed in a spreadsheet.",
+      "url": "/blog/export-iphone-contacts-to-excel/",
+      "related_app": "Export Contacts",
+      "related_app_url": "/apps/export-contacts/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can Excel open iPhone contacts?",
+        "Should I use CSV or VCF for Excel?",
+        "What contact fields can appear in a CSV?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can Excel open iPhone contacts?",
+          "a": "Excel can open iPhone contacts when they are exported to a spreadsheet-friendly format such as CSV."
+        },
+        {
+          "q": "Should I use CSV or VCF for Excel?",
+          "a": "Use CSV for Excel. VCF is better for importing contacts into another address book."
+        },
+        {
+          "q": "What contact fields can appear in a CSV?",
+          "a": "The fields depend on the export, but common fields include name, phone number, email, company, and notes."
+        },
+        {
+          "q": "Can I edit exported contacts in Excel?",
+          "a": "You can edit the CSV in Excel, but keep an original backup before making changes."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Export Contacts supports saving iPhone contacts as CSV or VCF files."
+        }
+      ]
+    },
+    {
+      "slug": "export-iphone-reminders-csv-json",
+      "title": "Export iPhone Reminders to CSV or JSON",
+      "category": "Export & Productivity",
+      "intent": "CSV and JSON exports can make iPhone reminders easier to review, archive, analyze, or move into another workflow.",
+      "summary": "CSV and JSON exports can make iPhone reminders easier to review, archive, analyze, or move into another workflow.",
+      "url": "/blog/export-iphone-reminders-csv-json/",
+      "related_app": "Export Reminders",
+      "related_app_url": "/apps/export-reminders/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Should I export reminders to CSV or JSON?",
+        "Can a reminders export include completed tasks?",
+        "Why would I need JSON?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Should I export reminders to CSV or JSON?",
+          "a": "Use CSV for spreadsheets and everyday review. Use JSON when you need structured data for another system or technical workflow."
+        },
+        {
+          "q": "Can a reminders export include completed tasks?",
+          "a": "It can, depending on the export workflow. Completed reminders are useful for project history and records."
+        },
+        {
+          "q": "Why would I need JSON?",
+          "a": "JSON is useful when another app, script, or system needs structured reminder data."
+        },
+        {
+          "q": "Is CSV easier to read?",
+          "a": "Yes. CSV is usually easier for people to read because it opens naturally in spreadsheet apps."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Export Reminders supports focused iOS reminder export workflows."
+        }
+      ]
+    },
+    {
+      "slug": "how-to-export-iphone-calendar",
+      "title": "How to Export iPhone Calendar",
+      "category": "Export & Productivity",
+      "intent": "Exporting an iPhone calendar means turning calendar events into a file you can save, review, import, or use outside the Calendar app.",
+      "summary": "Exporting an iPhone calendar means turning calendar events into a file you can save, review, import, or use outside the Calendar app.",
+      "url": "/blog/how-to-export-iphone-calendar/",
+      "related_app": "Export Calendar",
+      "related_app_url": "/apps/export-calendar/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I export my iPhone calendar?",
+        "What is the best calendar export format?",
+        "Is exporting the same as sharing a calendar?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I export my iPhone calendar?",
+          "a": "Yes. You can export iPhone calendar data into file formats such as CSV or ICS using a focused export workflow."
+        },
+        {
+          "q": "What is the best calendar export format?",
+          "a": "CSV is best for spreadsheets. ICS is best for calendar apps and calendar-native backups."
+        },
+        {
+          "q": "Is exporting the same as sharing a calendar?",
+          "a": "No. Sharing gives someone access to a calendar. Exporting creates a file copy of events."
+        },
+        {
+          "q": "Why would I export calendar events?",
+          "a": "Calendar exports are useful for records, backups, planning, spreadsheets, and account or device changes."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Export Calendar supports exporting iPhone calendar events to CSV or ICS."
+        }
+      ]
+    },
+    {
+      "slug": "how-to-export-iphone-reminders",
+      "title": "How to Export iPhone Reminders",
+      "category": "Export & Productivity",
+      "intent": "Exporting iPhone reminders creates a file-based copy of task lists so reminders can be reviewed, archived, backed up, or used outside the Reminders app.",
+      "summary": "Exporting iPhone reminders creates a file-based copy of task lists so reminders can be reviewed, archived, backed up, or used outside the Reminders app.",
+      "url": "/blog/how-to-export-iphone-reminders/",
+      "related_app": "Export Reminders",
+      "related_app_url": "/apps/export-reminders/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I export iPhone reminders?",
+        "Why export reminders instead of just syncing them?",
+        "Can exported reminders help with project records?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I export iPhone reminders?",
+          "a": "Yes. A reminder export workflow can save reminder data as a file for backup, review, or records."
+        },
+        {
+          "q": "Why export reminders instead of just syncing them?",
+          "a": "Sync keeps reminders available across devices. Exporting creates a separate file you can save or archive."
+        },
+        {
+          "q": "Can exported reminders help with project records?",
+          "a": "Yes. Exporting reminder lists can help preserve project tasks, completed items, and planning history."
+        },
+        {
+          "q": "Should I export completed reminders?",
+          "a": "If task history matters, completed reminders can be very useful to include."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Export Reminders supports focused iOS reminder export workflows."
+        }
+      ]
+    },
+    {
+      "slug": "how-to-rename-photos-on-iphone",
+      "title": "How To Rename Photos On Iphone",
+      "category": "Photos & Media",
+      "intent": "Provide a step-by-step guide to renaming photos on iphone. Related OpsOh app: Rename Photos.",
+      "summary": "Provide a step-by-step guide to renaming photos on iphone. Related OpsOh app: Rename Photos.",
+      "url": "/blog/how-to-rename-photos-on-iphone/",
+      "related_app": "Rename Photos",
+      "related_app_url": "/apps/rename-photos/",
+      "related_bundle": "Photo Organization Suite",
+      "related_bundle_url": "/bundles/photo-organization-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I rename photos on iPhone?",
+        "How do I batch rename iPhone photos?",
+        "How can I make photo filenames clearer?"
+      ],
+      "status": "published",
+      "content_status": "review_before_publish"
+    },
+    {
+      "slug": "rename-iphone-photos-for-work-organization",
+      "title": "Rename Iphone Photos For Work Organization",
+      "category": "Photos & Media",
+      "intent": "Show practical uses for renaming iphone photos. Related OpsOh app: Rename Photos.",
+      "summary": "Show practical uses for renaming iphone photos. Related OpsOh app: Rename Photos.",
+      "url": "/blog/rename-iphone-photos-for-work-organization/",
+      "related_app": "Rename Photos",
+      "related_app_url": "/apps/rename-photos/",
+      "related_bundle": "Photo Organization Suite",
+      "related_bundle_url": "/bundles/photo-organization-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I rename photos on iPhone?",
+        "How do I batch rename iPhone photos?",
+        "How can I make photo filenames clearer?"
+      ],
+      "status": "published",
+      "content_status": "review_before_publish"
+    },
+    {
+      "slug": "save-iphone-contacts-without-icloud",
+      "title": "Save iPhone Contacts Without iCloud",
+      "category": "Export & Productivity",
+      "intent": "Saving iPhone contacts without relying only on iCloud means exporting a separate contact file you can keep, review, archive, or import later.",
+      "summary": "Saving iPhone contacts without relying only on iCloud means exporting a separate contact file you can keep, review, archive, or import later.",
+      "url": "/blog/save-iphone-contacts-without-icloud/",
+      "related_app": "Export Contacts",
+      "related_app_url": "/apps/export-contacts/",
+      "related_bundle": "Export Data Suite",
+      "related_bundle_url": "/bundles/export-data-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "Can I save iPhone contacts without relying only on iCloud?",
+        "Should I use CSV or VCF?",
+        "Is exporting contacts a replacement for sync?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I save iPhone contacts without relying only on iCloud?",
+          "a": "Yes. Exporting contacts creates a separate file copy that can be saved outside the sync system."
+        },
+        {
+          "q": "Should I use CSV or VCF?",
+          "a": "CSV is best for spreadsheet review. VCF is best for importing contacts into another address book."
+        },
+        {
+          "q": "Is exporting contacts a replacement for sync?",
+          "a": "No. Exporting is a backup or file workflow, while sync keeps contacts connected across devices."
+        },
+        {
+          "q": "When should I export contacts?",
+          "a": "Export before switching phones, changing accounts, cleaning contacts, or making major address book changes."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Export Contacts supports exporting iPhone contacts to CSV or VCF."
+        }
+      ]
+    },
+    {
+      "slug": "why-iphone-photos-are-named-img-1234",
+      "title": "Why Iphone Photos Are Named Img 1234",
+      "category": "Photos & Media",
+      "intent": "Explain why iphone photos use generic img filenames and how to create clearer names. Related OpsOh app: Rename Photos.",
+      "summary": "Explain why iphone photos use generic img filenames and how to create clearer names. Related OpsOh app: Rename Photos.",
+      "url": "/blog/why-iphone-photos-are-named-img-1234/",
+      "related_app": "Rename Photos",
+      "related_app_url": "/apps/rename-photos/",
+      "related_bundle": "Photo Organization Suite",
+      "related_bundle_url": "/bundles/photo-organization-suite/",
+      "related_video_url": "/videos",
+      "questions": [
+        "How do I use OpsOh app?",
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this workflow?"
+      ],
+      "status": "published",
+      "content_status": "published_reviewed",
+      "faq": [
+        {
+          "q": "Why are iPhone photos named IMG_1234?",
+          "a": "iPhone photo filenames are automatically generated so the system can save and organize images consistently."
+        },
+        {
+          "q": "Can I rename iPhone photos?",
+          "a": "Yes. A focused iOS workflow can help rename photos into clearer filenames."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Rename Photos supports focused iPhone photo renaming workflows."
+        }
+      ]
+    },
+    {
+      "slug": "photo-to-text-pdf-iphone",
+      "title": "How to Turn Photos into a Text-Focused PDF on iPhone",
+      "category": "PDF Tools",
+      "intent": "Turning photos into a text-focused PDF on iPhone can help convert image-based content into a cleaner document workflow for notes, records, forms, or saved information.",
+      "summary": "Turn photo-based information into a more document-friendly PDF workflow on iPhone.",
+      "url": "/blog/photo-to-text-pdf-iphone/",
+      "related_app": "Photo To Text PDF",
+      "related_app_url": "/apps/photo-to-text-pdf/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "questions": [
+        "Can I turn photos into a PDF on iPhone?",
+        "When should I use a text-focused PDF workflow?",
+        "Why not keep the information as a photo?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I turn photos into a PDF on iPhone?",
+          "a": "Yes. A focused iOS workflow can turn selected photos into a PDF document."
+        },
+        {
+          "q": "When should I use a text-focused PDF workflow?",
+          "a": "Use it when the photo contains notes, documents, signs, receipts, forms, or other text-heavy information."
+        },
+        {
+          "q": "Why not keep the information as a photo?",
+          "a": "A PDF can be easier to name, file, attach, upload, and archive with other documents."
+        }
+      ]
+    },
+    {
+      "slug": "compress-iphone-videos",
+      "title": "How to Compress iPhone Videos",
+      "category": "Video Tools",
+      "intent": "Compress iPhone videos so clips are easier to send, upload, save, and share.",
+      "summary": "Compress iPhone videos so clips are easier to send, upload, save, and share.",
+      "url": "/blog/compress-iphone-videos/",
+      "related_app": "Shrink Video Size",
+      "related_app_url": "/apps/shrink-video-size/",
+      "related_bundle": "Video tools",
+      "related_bundle_url": "/bundles/",
+      "questions": [
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this?",
+        "When is this workflow useful?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I do this on iPhone?",
+          "a": "Yes. A focused iOS workflow can help complete this task directly on iPhone."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Shrink Video Size supports this workflow on iPhone."
+        },
+        {
+          "q": "When is this workflow useful?",
+          "a": "Compress iPhone videos so clips are easier to send, upload, save, and share."
+        }
+      ]
+    },
+    {
+      "slug": "extract-photo-from-video-iphone",
+      "title": "How to Extract a Photo from Video on iPhone",
+      "category": "Video Tools",
+      "intent": "Save a still image from an iPhone video for memories, thumbnails, records, or reference.",
+      "summary": "Save a still image from an iPhone video for memories, thumbnails, records, or reference.",
+      "url": "/blog/extract-photo-from-video-iphone/",
+      "related_app": "Extract Photo from Video",
+      "related_app_url": "/apps/extract-photo-from-video/",
+      "related_bundle": "Video tools",
+      "related_bundle_url": "/bundles/",
+      "questions": [
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this?",
+        "When is this workflow useful?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I do this on iPhone?",
+          "a": "Yes. A focused iOS workflow can help complete this task directly on iPhone."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Extract Photo from Video supports this workflow on iPhone."
+        },
+        {
+          "q": "When is this workflow useful?",
+          "a": "Save a still image from an iPhone video for memories, thumbnails, records, or reference."
+        }
+      ]
+    },
+    {
+      "slug": "merge-pdf-files-iphone",
+      "title": "How to Merge PDF Files on iPhone",
+      "category": "PDF Tools",
+      "intent": "Create organized PDF document workflows on iPhone for sharing, records, and forms.",
+      "summary": "Create organized PDF document workflows on iPhone for sharing, records, and forms.",
+      "url": "/blog/merge-pdf-files-iphone/",
+      "related_app": "PhotoPDF Maker",
+      "related_app_url": "/apps/photopdf-maker/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "questions": [
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this?",
+        "When is this workflow useful?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I do this on iPhone?",
+          "a": "Yes. A focused iOS workflow can help complete this task directly on iPhone."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "PhotoPDF Maker supports this workflow on iPhone."
+        },
+        {
+          "q": "When is this workflow useful?",
+          "a": "Create organized PDF document workflows on iPhone for sharing, records, and forms."
+        }
+      ]
+    },
+    {
+      "slug": "pdf-tools-iphone-merge-split",
+      "title": "PDF Tools for iPhone: Merge and Split PDFs",
+      "category": "PDF Tools",
+      "intent": "Manage PDF workflows on iPhone when documents need to be combined, separated, shared, or archived.",
+      "summary": "Manage PDF workflows on iPhone when documents need to be combined, separated, shared, or archived.",
+      "url": "/blog/pdf-tools-iphone-merge-split/",
+      "related_app": "PhotoPDF Maker",
+      "related_app_url": "/apps/photopdf-maker/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "questions": [
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this?",
+        "When is this workflow useful?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I do this on iPhone?",
+          "a": "Yes. A focused iOS workflow can help complete this task directly on iPhone."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "PhotoPDF Maker supports this workflow on iPhone."
+        },
+        {
+          "q": "When is this workflow useful?",
+          "a": "Manage PDF workflows on iPhone when documents need to be combined, separated, shared, or archived."
+        }
+      ]
+    },
+    {
+      "slug": "redact-pdf-iphone",
+      "title": "How to Redact a PDF on iPhone Before Sharing",
+      "category": "Documents & Privacy",
+      "intent": "Protect private information in PDFs before saving, sending, uploading, or sharing.",
+      "summary": "Protect private information in PDFs before saving, sending, uploading, or sharing.",
+      "url": "/blog/redact-pdf-iphone/",
+      "related_app": "PDF Redactor",
+      "related_app_url": "/apps/pdf-redactor/",
+      "related_bundle": null,
+      "related_bundle_url": null,
+      "questions": [
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this?",
+        "When is this workflow useful?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I do this on iPhone?",
+          "a": "Yes. A focused iOS workflow can help complete this task directly on iPhone."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "PDF Redactor supports this workflow on iPhone."
+        },
+        {
+          "q": "When is this workflow useful?",
+          "a": "Protect private information in PDFs before saving, sending, uploading, or sharing."
+        }
+      ]
+    },
+    {
+      "slug": "shrink-pdf-before-emailing",
+      "title": "How to Shrink a PDF Before Emailing from iPhone",
+      "category": "PDF Tools",
+      "intent": "Reduce PDF file size so documents are easier to email, upload, and share.",
+      "summary": "Reduce PDF file size so documents are easier to email, upload, and share.",
+      "url": "/blog/shrink-pdf-before-emailing/",
+      "related_app": "Shrink PDF Email",
+      "related_app_url": "/apps/shrink-pdf-email/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "questions": [
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this?",
+        "When is this workflow useful?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I do this on iPhone?",
+          "a": "Yes. A focused iOS workflow can help complete this task directly on iPhone."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "Shrink PDF Email supports this workflow on iPhone."
+        },
+        {
+          "q": "When is this workflow useful?",
+          "a": "Reduce PDF file size so documents are easier to email, upload, and share."
+        }
+      ]
+    },
+    {
+      "slug": "split-pdf-files-iphone",
+      "title": "How to Split PDF Files on iPhone",
+      "category": "PDF Tools",
+      "intent": "Extract or separate PDF pages on iPhone to create smaller, cleaner documents.",
+      "summary": "Extract or separate PDF pages on iPhone to create smaller, cleaner documents.",
+      "url": "/blog/split-pdf-files-iphone/",
+      "related_app": "PDF Page Extractor",
+      "related_app_url": "/apps/pdf-page-extractor/",
+      "related_bundle": "PDF tools",
+      "related_bundle_url": "/bundles/",
+      "questions": [
+        "Can I do this on iPhone?",
+        "Which OpsOh app supports this?",
+        "When is this workflow useful?"
+      ],
+      "content_status": "published_reviewed",
+      "last_expanded": "2026-06-11",
+      "faq": [
+        {
+          "q": "Can I do this on iPhone?",
+          "a": "Yes. A focused iOS workflow can help complete this task directly on iPhone."
+        },
+        {
+          "q": "Which OpsOh app supports this?",
+          "a": "PDF Page Extractor supports this workflow on iPhone."
+        },
+        {
+          "q": "When is this workflow useful?",
+          "a": "Extract or separate PDF pages on iPhone to create smaller, cleaner documents."
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Export & Productivity",
+    "Photos & Media",
+    "Files & Storage",
+    "Video Tools",
+    "PDF Tools"
+  ],
+  "published_count": 32,
+  "updated_for": "v27.48 SEO structured-data repair / source-of-truth",
+  "hub_display_model": "v23.7 balanced featured guides plus compact clickable guide index",
+  "content_debt_note": "Some guide URLs are intentionally preserved for SEO/LLM structure, but placeholder-style articles must be written or substantially expanded before publishing the website.",
+  "placeholder_candidates": [],
+  "version": "v27.48",
+  "generated": "2026-08-16"
+}

@@ -1,0 +1,15 @@
+OpsOh v27.50 — Rename Photos search-content improvement
+Date: 2026-09-11
+
+Based on Google Search Console query data, /blog/rename-iphone-photos-without-computer/ was selected as the primary page for the generic iPhone photo-renaming search cluster.
+
+Changes:
+- Preserved the existing visual/template structure and URL.
+- Added a direct answer explaining the distinction between Photos and Files.
+- Added built-in step-by-step instructions for renaming one exported photo in Files.
+- Added clearer guidance for batch renaming multiple photos.
+- Improved practical use cases and filename-pattern examples.
+- Updated FAQ copy and FAQPage structured data.
+- Updated Article/BlogPosting dateModified to 2026-09-11.
+- Updated guides.json and search-index.json to match the revised page.
+- No other article content was rewritten.

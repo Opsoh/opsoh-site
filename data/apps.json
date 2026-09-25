@@ -1,0 +1,603 @@
+{
+  "apps": [
+    {
+      "slug": "sunpath",
+      "name": "SunPath",
+      "category": "Light & Planning",
+      "summary": "Plan sunrise, sunset, golden hour, and better natural light for outdoor photography moments.",
+      "local": "/apps/sunpath/",
+      "bundle": null,
+      "video": "/videos#sunpath-new-ios-app",
+      "guide": "/blog/plan-golden-hour-photos-iphone/",
+      "tags": [
+        "Golden hour",
+        "Sun path",
+        "Photography",
+        "Planning"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/sunpath/id6776793803",
+      "icon": "/assets/img/apps/sunpath.png",
+      "promo_video": "/assets/video/sunpath-new-ios-app.mp4",
+      "promo_video_poster": "/assets/video/sunpath-new-ios-app-poster.jpg",
+      "status": "available_on_app_store",
+      "launch_status": "new_on_app_store",
+      "badge": "New on the App Store",
+      "app_store_badge": "/assets/img/badges/app-store-badge-us.svg",
+      "related_guide": "/blog/plan-golden-hour-photos-iphone/",
+      "related_video": "/videos#sunpath-new-ios-app"
+    },
+    {
+      "slug": "export-calendar",
+      "name": "Export Calendar",
+      "category": "Export & Productivity",
+      "summary": "Export calendar events to CSV or ICS for records, spreadsheets, backups, and planning on iPhone and Android.",
+      "local": "/apps/export-calendar/",
+      "bundle": "/bundles/export-data-suite/",
+      "video": "/videos",
+      "guide": "/blog/export-iphone-calendar-csv-ics/",
+      "tags": [
+        "CSV",
+        "ICS",
+        "Calendar",
+        "Records"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/export-calendar-csv-ics/id6759506126",
+      "icon": "/assets/img/apps/export-calendar.png",
+      "google_play_url": "https://play.google.com/store/apps/details?id=com.opsoh.exportcalendar"
+    },
+    {
+      "slug": "export-contacts",
+      "name": "Export Contacts",
+      "category": "Export & Productivity",
+      "summary": "Save iPhone contacts to CSV or VCF for backups, records, and spreadsheet workflows.",
+      "local": "/apps/export-contacts/",
+      "bundle": "/bundles/export-data-suite/",
+      "video": "/videos",
+      "guide": "/apps/export-contacts/",
+      "tags": [
+        "CSV",
+        "VCF",
+        "Contacts",
+        "Backup"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/export-contacts-csv-vcf/id6759071572",
+      "icon": "/assets/img/apps/export-contacts.png"
+    },
+    {
+      "slug": "export-reminders",
+      "name": "Export Reminders",
+      "category": "Export & Productivity",
+      "summary": "Export reminders for planning, backups, records, and task review workflows.",
+      "local": "/apps/export-reminders/",
+      "bundle": "/bundles/export-data-suite/",
+      "video": "/videos",
+      "guide": "/apps/export-reminders/",
+      "tags": [
+        "Tasks",
+        "Backup",
+        "Planning",
+        "Export"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/export-reminders-to-csv-json/id6759563567",
+      "icon": "/assets/img/apps/export-reminders.png"
+    },
+    {
+      "slug": "export-photos-zip-share",
+      "name": "Export Photos - ZIP & Share",
+      "category": "Export & Productivity",
+      "summary": "Package selected iPhone photos into a ZIP file for sharing, saving, or moving groups of images.",
+      "local": "/apps/export-photos-zip-share/",
+      "bundle": "/bundles/export-data-suite/",
+      "video": "/videos",
+      "guide": "/apps/export-photos-zip-share/",
+      "tags": [
+        "ZIP",
+        "Photos",
+        "Sharing",
+        "Export"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/export-photos-zip-share/id6759607419",
+      "icon": "/assets/img/apps/export-photos-zip-share.png"
+    },
+    {
+      "slug": "rename-photos",
+      "name": "Rename Photos",
+      "category": "Photos & Media",
+      "summary": "Batch rename photos, screenshots, and supported files with flexible naming rules, live previews, format control, ZIP sharing, and private on-device processing.",
+      "local": "/apps/rename-photos/",
+      "bundle": "/bundles/photo-organization-suite/",
+      "video": "/videos",
+      "guide": "/blog/rename-iphone-photos-without-computer/",
+      "tags": [
+        "Rename",
+        "Photos",
+        "Batch",
+        "Organization"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/rename-photos/id6757441584",
+      "icon": "/assets/img/apps/rename-photos/icon.png"
+    },
+    {
+      "slug": "combine-photos-side-by-side",
+      "name": "Combine Photos Side by Side",
+      "category": "Photos & Media",
+      "summary": "Combine multiple photos into one image for sharing, comparison, layouts, and visual records.",
+      "local": "/apps/combine-photos-side-by-side/",
+      "bundle": null,
+      "video": "/videos",
+      "guide": "/apps/combine-photos-side-by-side/",
+      "tags": [
+        "Combine",
+        "Layout",
+        "Photos",
+        "Sharing"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/combine-photos-side-by-side/id6758624876",
+      "icon": "/assets/img/apps/combine-photos-side-by-side.png"
+    },
+    {
+      "slug": "date-stamp-photos",
+      "name": "Date Stamp Photos",
+      "category": "Photos & Media",
+      "summary": "Add visible date stamps to iPhone photos for records, memories, travel, and documentation.",
+      "local": "/apps/date-stamp-photos/",
+      "bundle": null,
+      "video": "/videos",
+      "guide": "/apps/date-stamp-photos/",
+      "tags": [
+        "Date stamp",
+        "Photos",
+        "Records",
+        "Travel"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/date-stamp-photos/id6758065631",
+      "icon": "/assets/img/apps/date-stamp-photos.png"
+    },
+    {
+      "slug": "sort-photos-into-album",
+      "name": "Sort Photos Into Album",
+      "category": "Photos & Media",
+      "summary": "Move selected iPhone photos into albums so related images are easier to organize.",
+      "local": "/apps/sort-photos-into-album/",
+      "bundle": "/bundles/photo-organization-suite/",
+      "video": null,
+      "guide": "/apps/sort-photos-into-album/",
+      "tags": [
+        "Albums",
+        "Sort",
+        "Photos",
+        "Organize"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/sort-photos-into-album/id6760555271",
+      "icon": "/assets/img/apps/sort-photos-into-album.png"
+    },
+    {
+      "slug": "move-photos-between-albums",
+      "name": "Move Photos Between Albums",
+      "category": "Photos & Media",
+      "summary": "Reorganize photo albums by moving selected images where they belong.",
+      "local": "/apps/move-photos-between-albums/",
+      "bundle": "/bundles/photo-organization-suite/",
+      "video": null,
+      "guide": "/apps/move-photos-between-albums/",
+      "tags": [
+        "Albums",
+        "Move",
+        "Photos",
+        "Library"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/move-photos-between-albums/id6760366977",
+      "icon": "/assets/img/apps/move-photos-between-albums.png"
+    },
+    {
+      "slug": "bulk-delete-photos",
+      "name": "Bulk Delete Photos",
+      "category": "Photos & Media",
+      "summary": "Review and remove selected photo groups with a focused cleanup workflow.",
+      "local": "/apps/bulk-delete-photos/",
+      "bundle": "/bundles/photo-organization-suite/",
+      "video": null,
+      "guide": "/apps/bulk-delete-photos/",
+      "tags": [
+        "Cleanup",
+        "Delete",
+        "Photos",
+        "Storage"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/bulk-delete-photos/id6760352814",
+      "icon": "/assets/img/apps/bulk-delete-photos.png"
+    },
+    {
+      "slug": "delete-screenshots",
+      "name": "Delete Screenshots",
+      "category": "Photos & Media",
+      "summary": "Find and remove screenshot clutter from your photo library.",
+      "local": "/apps/delete-screenshots/",
+      "bundle": "/bundles/photo-organization-suite/",
+      "video": null,
+      "guide": "/apps/delete-screenshots/",
+      "tags": [
+        "Screenshots",
+        "Cleanup",
+        "Photos",
+        "Storage"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/delete-screenshots/id6760718990",
+      "icon": "/assets/img/apps/delete-screenshots.png"
+    },
+    {
+      "slug": "rename-videos",
+      "name": "Rename Videos",
+      "category": "Video Tools",
+      "summary": "Rename iPhone video clips with clearer names for projects, records, and media organization.",
+      "local": "/apps/rename-videos/",
+      "bundle": "/bundles/video-tools-suite/",
+      "video": null,
+      "guide": "/apps/rename-videos/",
+      "tags": [
+        "Rename",
+        "Videos",
+        "Clips",
+        "Organization"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/rename-videos/id6760619374",
+      "icon": "/assets/img/apps/rename-videos.png"
+    },
+    {
+      "slug": "video-to-gif-no-watermark",
+      "name": "Video to GIF – No Watermark",
+      "category": "Video Tools",
+      "summary": "Turn video clips into GIFs without adding a watermark.",
+      "local": "/apps/video-to-gif-no-watermark/",
+      "bundle": "/bundles/video-tools-suite/",
+      "video": null,
+      "guide": "/apps/video-to-gif-no-watermark/",
+      "tags": [
+        "GIF",
+        "Video",
+        "No watermark",
+        "Sharing"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/video-to-gif-no-watermark/id6758457973",
+      "icon": "/assets/img/apps/video-to-gif-no-watermark.png"
+    },
+    {
+      "slug": "shrink-video-size",
+      "name": "Shrink Video Size",
+      "category": "Video Tools",
+      "summary": "Compress large video files to reduce storage size and make sharing easier.",
+      "local": "/apps/shrink-video-size/",
+      "bundle": "/bundles/video-tools-suite/",
+      "video": null,
+      "guide": "/apps/shrink-video-size/",
+      "tags": [
+        "Compress",
+        "Video",
+        "Storage",
+        "Sharing"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/shrink-video-size/id6758304919",
+      "icon": "/assets/img/apps/shrink-video-size.png"
+    },
+    {
+      "slug": "delete-large-videos-fast",
+      "name": "Delete Large Videos Fast",
+      "category": "Video Tools",
+      "summary": "Find storage-heavy videos and clean up media clutter more directly.",
+      "local": "/apps/delete-large-videos-fast/",
+      "bundle": "/bundles/video-tools-suite/",
+      "video": null,
+      "guide": "/apps/delete-large-videos-fast/",
+      "tags": [
+        "Large videos",
+        "Cleanup",
+        "Storage",
+        "Media"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/delete-large-videos-fast/id6759452893",
+      "icon": "/assets/img/apps/delete-large-videos-fast.png"
+    },
+    {
+      "slug": "extract-photo-from-video",
+      "name": "Extract Photo from Video",
+      "category": "Video Tools",
+      "summary": "Save useful frames from videos as photos for sharing, records, or creative work.",
+      "local": "/apps/extract-photo-from-video/",
+      "bundle": "/bundles/video-tools-suite/",
+      "video": null,
+      "guide": "/apps/extract-photo-from-video/",
+      "tags": [
+        "Video frame",
+        "Photo",
+        "Extract",
+        "Media"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/extract-photo-from-video/id6758530303",
+      "icon": "/assets/img/apps/extract-photo-from-video.png"
+    },
+    {
+      "slug": "save-audio-from-video",
+      "name": "Save Audio from Video",
+      "category": "Video Tools",
+      "summary": "Extract and save audio from video files for focused media workflows.",
+      "local": "/apps/save-audio-from-video/",
+      "bundle": "/bundles/video-tools-suite/",
+      "video": null,
+      "guide": "/apps/save-audio-from-video/",
+      "tags": [
+        "Audio",
+        "Video",
+        "Extract",
+        "Media"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/save-audio-from-video/id6758519988",
+      "icon": "/assets/img/apps/save-audio-from-video.png"
+    },
+    {
+      "slug": "shrink-gif-compress-gifs",
+      "name": "Shrink GIF - Compress GIFs",
+      "category": "Video Tools",
+      "summary": "Compress GIF files so they are easier to save, send, and share.",
+      "local": "/apps/shrink-gif-compress-gifs/",
+      "bundle": "/bundles/video-tools-suite/",
+      "video": null,
+      "guide": "/apps/shrink-gif-compress-gifs/",
+      "tags": [
+        "GIF",
+        "Compress",
+        "Sharing",
+        "Storage"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/shrink-gif-compress-gifs/id6758728637",
+      "icon": "/assets/img/apps/shrink-gif-compress-gifs.png"
+    },
+    {
+      "slug": "photopdf-maker",
+      "name": "PhotoPDF Maker",
+      "category": "PDF Tools",
+      "summary": "Create PDF files from selected photos for records, forms, or sharing.",
+      "local": "/apps/photopdf-maker/",
+      "bundle": "/bundles/pdf-tools-suite/",
+      "video": null,
+      "guide": "/apps/photopdf-maker/",
+      "tags": [
+        "Photo to PDF",
+        "Documents",
+        "Records",
+        "Sharing"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/photopdf-maker/id6757542852",
+      "icon": "/assets/img/apps/photopdf-maker.png"
+    },
+    {
+      "slug": "photo-to-text-pdf",
+      "name": "Photo To Text PDF",
+      "category": "PDF Tools",
+      "summary": "Create text-focused PDF workflows from photo-based content.",
+      "local": "/apps/photo-to-text-pdf/",
+      "bundle": "/bundles/pdf-tools-suite/",
+      "video": null,
+      "guide": "/apps/photo-to-text-pdf/",
+      "tags": [
+        "PDF",
+        "Photos",
+        "Text",
+        "Documents"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/photo-to-text-pdf/id6757924108",
+      "icon": "/assets/img/apps/photo-to-text-pdf.png"
+    },
+    {
+      "slug": "pdf-page-extractor",
+      "name": "PDF Page Extractor",
+      "category": "PDF Tools",
+      "summary": "Extract selected pages from a PDF into a smaller, more focused document.",
+      "local": "/apps/pdf-page-extractor/",
+      "bundle": "/bundles/pdf-tools-suite/",
+      "video": null,
+      "guide": "/apps/pdf-page-extractor/",
+      "tags": [
+        "PDF",
+        "Pages",
+        "Extract",
+        "Documents"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/pdf-page-extractor/id6758787627",
+      "icon": "/assets/img/apps/pdf-page-extractor.png"
+    },
+    {
+      "slug": "pdf-rotate",
+      "name": "PDF Rotate",
+      "category": "PDF Tools",
+      "summary": "Rotate PDF pages to fix document orientation before saving or sharing.",
+      "local": "/apps/pdf-rotate/",
+      "bundle": "/bundles/pdf-tools-suite/",
+      "video": null,
+      "guide": "/apps/pdf-rotate/",
+      "tags": [
+        "PDF",
+        "Rotate",
+        "Documents",
+        "Fix"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/pdf-rotate/id6758246702",
+      "icon": "/assets/img/apps/pdf-rotate.png"
+    },
+    {
+      "slug": "shrink-pdf-email",
+      "name": "Shrink PDF Email",
+      "category": "PDF Tools",
+      "summary": "Compress PDF files so they are easier to send, save, and share.",
+      "local": "/apps/shrink-pdf-email/",
+      "bundle": "/bundles/pdf-tools-suite/",
+      "video": null,
+      "guide": "/apps/shrink-pdf-email/",
+      "tags": [
+        "PDF",
+        "Compress",
+        "Email",
+        "Sharing"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/shrink-pdf-email/id6758271926",
+      "icon": "/assets/img/apps/shrink-pdf-email.png"
+    },
+    {
+      "slug": "pdf-redactor",
+      "name": "PDF Redactor",
+      "category": "Documents & Privacy",
+      "summary": "Protect private information in PDFs before saving or sharing documents.",
+      "local": "/apps/pdf-redactor/",
+      "bundle": null,
+      "video": "/videos",
+      "guide": "/apps/pdf-redactor/",
+      "tags": [
+        "PDF",
+        "Privacy",
+        "Redact",
+        "Documents"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/pdf-redactor/id6758163852",
+      "icon": "/assets/img/apps/pdf-redactor.png"
+    },
+    {
+      "slug": "file-cleaner",
+      "name": "File Cleaner",
+      "category": "Files & Storage",
+      "summary": "Find large files and clean storage with a focused iPhone file workflow.",
+      "local": "/apps/file-cleaner/",
+      "bundle": null,
+      "video": "/videos",
+      "guide": "/blog/find-large-files-on-iphone/",
+      "tags": [
+        "Files",
+        "Storage",
+        "Cleanup",
+        "iPhone"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/file-cleaner/id6758671473",
+      "icon": "/assets/img/apps/file-cleaner.png"
+    },
+    {
+      "slug": "photo-location-export",
+      "name": "Photo Location Export",
+      "category": "Photos & Media",
+      "summary": "Export photo location details for records, travel, projects, and useful photo context.",
+      "local": "/apps/photo-location-export/",
+      "bundle": null,
+      "video": null,
+      "guide": "/apps/photo-location-export/",
+      "tags": [
+        "Location",
+        "Photos",
+        "Metadata",
+        "Records"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/photo-location-export/id6760786144",
+      "icon": "/assets/img/apps/photo-location-export.png"
+    },
+    {
+      "slug": "export-health",
+      "name": "Export Health",
+      "category": "Health Data",
+      "summary": "Export selected Apple Health records to CSV or create readable PDF summaries with metrics, monthly trends, and data coverage details.",
+      "local": "/apps/export-health/",
+      "bundle": null,
+      "video": null,
+      "guide": "/blog/export-apple-health-data-iphone/",
+      "tags": [
+        "Apple Health",
+        "CSV",
+        "PDF",
+        "Health data"
+      ],
+      "featured": true,
+      "app_store_url": "https://apps.apple.com/us/app/export-health/id6785631256",
+      "icon": "/assets/img/apps/export-health.png"
+    },
+    {
+      "slug": "wordgrove",
+      "name": "Wordgrove: Word Search Puzzles",
+      "category": "Games",
+      "summary": "Relaxing word-search puzzles with daily brain training.",
+      "local": "/games/",
+      "bundle": null,
+      "video": null,
+      "guide": null,
+      "tags": [
+        "Games",
+        "Words",
+        "Puzzle"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/wordgrove-word-search-puzzles/id6793238829",
+      "icon": null
+    },
+    {
+      "slug": "skytangle",
+      "name": "Skytangle: Star Puzzle",
+      "category": "Games",
+      "summary": "Untangle constellation lines across celestial logic-puzzle worlds.",
+      "local": "/games/",
+      "bundle": null,
+      "video": null,
+      "guide": null,
+      "tags": [
+        "Games",
+        "Puzzle",
+        "Logic"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/skytangle-star-puzzle/id6794949184",
+      "icon": null
+    },
+    {
+      "slug": "brick-breaker-retro-arcade",
+      "name": "Brick Breaker – Retro Arcade",
+      "category": "Games",
+      "summary": "Retro-inspired brick-breaker arcade play with pixel art, power-ups, and dozens of levels.",
+      "local": "/games/",
+      "bundle": null,
+      "video": null,
+      "guide": null,
+      "tags": [
+        "Games",
+        "Arcade",
+        "Casual"
+      ],
+      "featured": false,
+      "app_store_url": "https://apps.apple.com/us/app/brick-breaker-retro-arcade/id6760032801",
+      "icon": null
+    }
+  ],
+  "updated_for": "v27.48 SEO structured-data repair / source-of-truth",
+  "display_model": "v22.5 curated showcase with polished copy and corrected icons",
+  "version": "v27.48",
+  "generated": "2026-08-16"
+}

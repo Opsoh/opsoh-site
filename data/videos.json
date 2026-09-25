@@ -1,0 +1,232 @@
+{
+  "available": [
+    {
+      "title": "SunPath — New iOS App",
+      "url": "/assets/video/sunpath-new-ios-app.mp4",
+      "poster": "/assets/video/sunpath-new-ios-app-poster.jpg",
+      "video_type": "App preview",
+      "status": "Available now",
+      "slug": "sunpath-new-ios-app",
+      "category": "Light & Planning",
+      "related_app": "SunPath",
+      "related_url": "/apps/sunpath/",
+      "related_guide": "How to Plan Golden Hour Photos on iPhone",
+      "related_guide_url": "/blog/plan-golden-hour-photos-iphone/",
+      "description": "A short Apple-generated promo video introducing SunPath, an iOS app for planning golden hour, sunrise, sunset, and outdoor light moments."
+    },
+    {
+      "title": "Export iPhone Contacts to CSV or VCF in Seconds",
+      "url": "https://youtube.com/shorts/1Xf_vJUlpak",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "export-iphone-contacts-to-csv-or-vcf-in-seconds",
+      "category": "Export & Productivity",
+      "related_app": "Export Contacts",
+      "related_url": "/apps/export-contacts/",
+      "related_guide": "Export contacts workflow",
+      "related_guide_url": "/apps/export-contacts/",
+      "description": "Shows how Export Contacts helps save iPhone contacts to portable files for backup, records, or spreadsheet workflows."
+    },
+    {
+      "title": "Add a Visible Date Stamp to iPhone Photos",
+      "url": "https://youtube.com/shorts/wqEcXm1EmJE",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "add-a-visible-date-stamp-to-iphone-photos",
+      "category": "Photos & Media",
+      "related_app": "Date Stamp Photos",
+      "related_url": "/apps/date-stamp-photos/",
+      "related_guide": "Photo workflows",
+      "related_guide_url": "/apps/",
+      "description": "Shows an iPhone photo workflow for adding a visible date stamp to photos.",
+      "app_store_url": "https://apps.apple.com/us/app/date-stamp-photos/id6758065631"
+    },
+    {
+      "title": "Still Sending Photos One by One?",
+      "url": "https://youtube.com/shorts/KUARjNPlUJA",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "still-sending-photos-one-by-one",
+      "category": "Photos & Media",
+      "related_app": "Export Photos - ZIP & Share",
+      "related_url": "/apps/export-photos-zip-share/",
+      "related_guide": "Photo sharing workflow",
+      "related_guide_url": "/apps/export-photos-zip-share/",
+      "description": "Shows a faster way to package and share selected iPhone photos instead of sending them one by one."
+    },
+    {
+      "title": "Combine Multiple Photos Into One on iPhone",
+      "url": "https://youtube.com/shorts/ujkztLRsebk",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "combine-multiple-photos-into-one-on-iphone",
+      "category": "Photos & Media",
+      "related_app": "Combine Photos Side by Side",
+      "related_url": "/apps/combine-photos-side-by-side/",
+      "related_guide": "Combine photos workflow",
+      "related_guide_url": "/apps/combine-photos-side-by-side/",
+      "description": "Shows how to combine multiple iPhone photos into one image for sharing, comparison, or simple layouts.",
+      "app_store_url": "https://apps.apple.com/us/app/combine-photos-side-by-side/id6758624876"
+    },
+    {
+      "title": "Switching iPhones? Save Your Reminders First",
+      "url": "https://youtube.com/shorts/3Ig3oaqkWRs",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "switching-iphones-save-your-reminders-first",
+      "category": "Export & Productivity",
+      "related_app": "Export Reminders",
+      "related_url": "/apps/export-reminders/",
+      "related_guide": "Export reminders workflow",
+      "related_guide_url": "/apps/export-reminders/",
+      "description": "Shows why exporting reminders can be useful before switching iPhones or keeping task records."
+    },
+    {
+      "title": "Tired of IMG_1234 Photo Names? Rename iPhone Photos in Seconds",
+      "url": "https://youtube.com/shorts/a59o3TbhpvA",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "tired-of-img-1234-photo-names-rename-iphone-photos-in-seconds",
+      "category": "Photos & Media",
+      "related_app": "Rename Photos",
+      "related_url": "/apps/rename-photos/",
+      "related_guide": "How to rename iPhone photos without a computer",
+      "related_guide_url": "/blog/rename-iphone-photos-without-computer/",
+      "description": "Shows how Rename Photos helps batch rename iPhone photos with clearer filenames."
+    },
+    {
+      "title": "iPhone doesn’t let you export your calendar… here’s how",
+      "url": "https://youtube.com/shorts/DQAA345QeiU",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "iphone-doesn-t-let-you-export-your-calendar-here-s-how",
+      "category": "Export & Productivity",
+      "related_app": "Export Calendar",
+      "related_url": "/apps/export-calendar/",
+      "related_guide": "How to export iPhone calendar events to CSV",
+      "related_guide_url": "/blog/export-iphone-calendar-csv-ics/",
+      "description": "Shows how Export Calendar helps save iPhone calendar events for Excel, CSV, records, or moving phones."
+    },
+    {
+      "title": "Don’t switch iPhone before doing this (Export your calendar)",
+      "url": "https://youtube.com/shorts/yYtupo3o2sU",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "don-t-switch-iphone-before-doing-this-export-your-calendar",
+      "category": "Export & Productivity",
+      "related_app": "Export Calendar",
+      "related_url": "/apps/export-calendar/",
+      "related_guide": "How to export iPhone calendar events to CSV",
+      "related_guide_url": "/blog/export-iphone-calendar-csv-ics/",
+      "description": "Shows how Export Calendar helps save iPhone calendar events for Excel, CSV, records, or moving phones."
+    },
+    {
+      "title": "Export iPhone Calendar to Excel in Seconds",
+      "url": "https://youtube.com/shorts/dFEeGvbUcRk",
+      "video_type": "Short",
+      "status": "Available now",
+      "slug": "export-iphone-calendar-to-excel-in-seconds",
+      "category": "Export & Productivity",
+      "related_app": "Export Calendar",
+      "related_url": "/apps/export-calendar/",
+      "related_guide": "How to export iPhone calendar events to CSV",
+      "related_guide_url": "/blog/export-iphone-calendar-csv-ics/",
+      "description": "Shows how Export Calendar helps save iPhone calendar events for Excel, CSV, records, or moving phones."
+    },
+    {
+      "title": "Rename iPhone Photos in Seconds (Batch Rename Made Easy)",
+      "url": "https://youtube.com/shorts/ekkzM45l2o4",
+      "video_type": "Video",
+      "status": "Available now",
+      "slug": "rename-iphone-photos-in-seconds-batch-rename-made-easy",
+      "category": "Photos & Media",
+      "related_app": "Rename Photos",
+      "related_url": "/apps/rename-photos/",
+      "related_guide": "How to rename iPhone photos without a computer",
+      "related_guide_url": "/blog/rename-iphone-photos-without-computer/",
+      "description": "Shows how Rename Photos helps batch rename iPhone photos with clearer filenames."
+    }
+  ],
+  "planned": [
+    {
+      "title": "Rename Videos walkthrough",
+      "category": "Video Tools",
+      "status": "Planned",
+      "description": "A future walkthrough for showing how Rename Videos helps make iPhone video clips easier to recognize and organize.",
+      "related_app": "Rename Videos",
+      "related_url": "/apps/rename-videos/",
+      "related_guide": "Video tools",
+      "related_guide_url": "/bundles/video-tools-suite/",
+      "slug": "rename-videos-walkthrough"
+    },
+    {
+      "title": "Video Tools Suite overview",
+      "category": "Bundles",
+      "status": "Planned",
+      "description": "A future bundle overview for GIF creation, video compression, audio extraction, frame capture, and large video cleanup.",
+      "related_app": "Video Tools Suite",
+      "related_url": "/bundles/video-tools-suite/",
+      "related_guide": "Browse video tools",
+      "related_guide_url": "/bundles/video-tools-suite/",
+      "slug": "video-tools-suite-overview"
+    },
+    {
+      "title": "Export Data Suite overview",
+      "category": "Bundles",
+      "status": "Planned",
+      "description": "A future bundle overview for calendar, contacts, reminders, and photo ZIP export workflows.",
+      "related_app": "Export Data Suite",
+      "related_url": "/bundles/export-data-suite/",
+      "related_guide": "Browse OpsOh bundles",
+      "related_guide_url": "/bundles/",
+      "slug": "export-data-suite-overview"
+    },
+    {
+      "title": "Photo Organization Suite overview",
+      "category": "Bundles",
+      "status": "Planned",
+      "description": "A future bundle overview for photo renaming, album organization, bulk delete, and screenshot cleanup workflows.",
+      "related_app": "Photo Organization Suite",
+      "related_url": "/bundles/photo-organization-suite/",
+      "related_guide": "Browse photo apps",
+      "related_guide_url": "/apps/",
+      "slug": "photo-organization-suite-overview"
+    },
+    {
+      "title": "PDF Tools Suite overview",
+      "category": "Bundles",
+      "status": "Planned",
+      "description": "A future bundle overview for creating, rotating, extracting, shrinking, and organizing PDF files.",
+      "related_app": "PDF Tools Suite",
+      "related_url": "/bundles/pdf-tools-suite/",
+      "related_guide": "Browse PDF tools",
+      "related_guide_url": "/bundles/pdf-tools-suite/",
+      "slug": "pdf-tools-suite-overview"
+    },
+    {
+      "title": "SunPath light planning overview",
+      "category": "Light & Planning",
+      "status": "Planned",
+      "description": "A future walkthrough for planning sunrise, sunset, golden hour, and outdoor light moments.",
+      "related_app": "SunPath",
+      "related_url": "/apps/sunpath/",
+      "related_guide": "Plan golden hour photos",
+      "related_guide_url": "/blog/plan-golden-hour-photos-iphone/",
+      "slug": "sunpath-light-planning-overview"
+    }
+  ],
+  "notes": [
+    "User stated all available videos are Shorts except 'Rename iPhone Photos in Seconds (Batch Rename Made Easy)'.",
+    "Planned videos are not shown as available content.",
+    "The site can be expanded later by adding entries to this file."
+  ],
+  "page_copy": {
+    "hero_title": "See OpsOh apps in action.",
+    "hero_subtitle": "Quick videos for iPhone workflows like exporting data, organizing photos, sharing images, and keeping useful records.",
+    "available_heading": "App demos",
+    "available_subtitle": "Short videos showing selected OpsOh apps and everyday iPhone workflows.",
+    "planned_heading": "More topics",
+    "planned_subtitle": "Additional app and bundle walkthrough areas for future videos."
+  },
+  "updated_for": "v24.2 SunPath App Store link and promo video"
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Export Data Suite",
+    "slug": "export-data-suite",
+    "category": "Data export bundle",
+    "appCount": 4,
+    "includedApps": [
+      "Export Calendar",
+      "Export Contacts",
+      "Export Reminders",
+      "Export Photos - ZIP & Share"
+    ],
+    "short": "Export Data Suite groups four OpsOh export apps for calendar, contacts, reminders, and photo ZIP sharing workflows.",
+    "appStoreUrl": "https://apps.apple.com/us/app-bundle/export-data-suite/id1881653965",
+    "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/export-data-suite/id1881653965",
+    "bundle_url": "https://apps.apple.com/us/app-bundle/export-data-suite/id1881653965"
+  },
+  {
+    "name": "Photo Organization Suite",
+    "slug": "photo-organization-suite",
+    "category": "Photo workflow bundle",
+    "appCount": 5,
+    "includedApps": [
+      "Rename Photos",
+      "Sort Photos Into Album",
+      "Move Photos Between Albums",
+      "Bulk Delete Photos",
+      "Delete Screenshots"
+    ],
+    "short": "Photo Organization Suite groups five OpsOh apps for renaming photos, sorting photos into albums, moving photos between albums, bulk deleting photos, and deleting screenshots.",
+    "appStoreUrl": "https://apps.apple.com/us/app-bundle/photo-organization-suite/id1894850202",
+    "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/photo-organization-suite/id1894850202",
+    "bundle_url": "https://apps.apple.com/us/app-bundle/photo-organization-suite/id1894850202"
+  },
+  {
+    "name": "Video Tools Suite",
+    "slug": "video-tools-suite",
+    "category": "Video utility bundle",
+    "appCount": 7,
+    "includedApps": [
+      "Rename Videos",
+      "Video to GIF – No Watermark",
+      "Shrink Video Size",
+      "Delete Large Videos Fast",
+      "Extract Photo from Video",
+      "Save Audio from Video",
+      "Shrink GIF - Compress GIFs"
+    ],
+    "short": "Video Tools Suite groups seven OpsOh apps for renaming videos, converting video to GIF, shrinking video size, deleting large videos, extracting photos from video, saving audio from video, and compressing GIFs.",
+    "appStoreUrl": "https://apps.apple.com/us/app-bundle/video-tools-suite/id1894852426",
+    "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/video-tools-suite/id1894852426",
+    "bundle_url": "https://apps.apple.com/us/app-bundle/video-tools-suite/id1894852426"
+  },
+  {
+    "name": "PDF Tools Suite",
+    "slug": "pdf-tool-suite",
+    "category": "PDF workflow bundle",
+    "appCount": 7,
+    "includedApps": [
+      "PhotoPDF Maker",
+      "Attachments to PDF",
+      "Photo To Text PDF",
+      "Split Merge PDF",
+      "PDF Page Extractor",
+      "PDF Rotate",
+      "Shrink PDF Email"
+    ],
+    "short": "PDF Tools Suite groups seven OpsOh PDF apps for creating PDFs from photos, attaching files to PDFs, turning photos into text PDFs, splitting and merging PDFs, extracting PDF pages, rotating PDFs, and shrinking PDFs for email.",
+    "appStoreUrl": "https://apps.apple.com/us/app-bundle/pdf-tools-suite/id1896848994",
+    "app_store_bundle_url": "https://apps.apple.com/us/app-bundle/pdf-tools-suite/id1896848994",
+    "bundle_url": "https://apps.apple.com/us/app-bundle/pdf-tools-suite/id1896848994"
+  }
+]
